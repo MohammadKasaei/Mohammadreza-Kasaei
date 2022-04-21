@@ -42,6 +42,28 @@ the stability under unexpected perturbations.
 <br> <a href="https://youtu.be/sdcREkRHk-Q"> <b>Video</b></a> &emsp; &emsp; <a href="https://arxiv.org/pdf/2011.13798.pdf"> <b>Paper</b></a> 
  </td>
   </tr>
+
+
+  <tr>
+    <td><img src="./imgs/kernel.png"/></td>
+    <td> <b> + Learning Hybrid Locomotion Skills – Learn to Exploit Residual
+Dynamics and Modulate Model-based Gait Control:</b> <br>
+    This work aims to combine machine learning and
+control approaches for legged robots, and developed a hybrid
+framework to achieve new capabilities of balancing against
+external perturbations. The framework embeds a kernel which is
+a fully parametric closed-loop gait generator based on analytical
+control. On top of that, a neural network with symmetric partial
+data augmentation learns to automatically adjust the parameters
+for the gait kernel and to generate compensatory actions for all
+joints as the residual dynamics, thus significantly augmenting
+the stability under unexpected perturbations. 
+<br> <a href="https://youtu.be/sdcREkRHk-Q"> <b>Video</b></a> &emsp; &emsp; <a href="https://arxiv.org/pdf/2011.13798.pdf"> <b>Paper</b></a> 
+ </td>
+  </tr>
+</table>
+
+
 </table>
 
 # Contact
