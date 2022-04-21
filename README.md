@@ -14,7 +14,15 @@
  - **March 2022:** We proposed a framework for <span style="color:#006600"> <b>Learning Hybrid Locomotion Skills - Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control</b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2011.13798).
 
 # Research and Publication
-<table cellspacing="0" cellpadding="0">
+
+<style>
+table, tr {border:hidden;}
+td, th {border:hidden;}
+</style>
+
+
+<table style="border:hidden;">
+
 <!-- <style>
 th, td {
   border-style:None;}
