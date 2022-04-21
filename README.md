@@ -39,7 +39,7 @@ data augmentation learns to automatically adjust the parameters
 for the gait kernel and to generate compensatory actions for all
 joints as the residual dynamics, thus significantly augmenting
 the stability under unexpected perturbations. 
-<br> <a href="https://youtu.be/sdcREkRHk-Q"> <b>Video</b></a> 
+<br> <a href="https://youtu.be/sdcREkRHk-Q"> <b>Video</b></a> &emsp; &emsp; <a href="https://arxiv.org/pdf/2011.13798.pdf"> <b>Paper</b></a> 
  </td>
   </tr>
 </table>
