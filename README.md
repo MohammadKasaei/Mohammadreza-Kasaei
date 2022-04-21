@@ -11,6 +11,7 @@
 ----------
 
 # Latest News
+ - We proposed a framework for Learning Hybrid Locomotion Skills - Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control. This work aims to combine machine learning and control approaches for legged robots, and developed a hybrid framework to achieve new capabilities of balancing against external perturbations. The paper is available online at [Here] (https://arxiv.org/pdf/2011.13798)
 
 # Research and Publication
 
