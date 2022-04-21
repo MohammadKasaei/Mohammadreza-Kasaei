@@ -21,7 +21,7 @@ th, td {
 </style>
 
   <tr>
-    <th style="width:35%"></th>
+    <th style="width:45%"></th>
     <th></th>
   </tr>
 
