@@ -16,6 +16,11 @@
 # Research and Publication
 <table>
   <tr>
+    <th style="width:30%"></th>
+    <th></th>
+  </tr>
+
+  <tr>
     <td><img src="./imgs/kernel.png" align="left" /></td>
     <td> <b> + Learning Hybrid Locomotion Skills – Learn to Exploit Residual
 Dynamics and Modulate Model-based Gait Control:</b> <br>
