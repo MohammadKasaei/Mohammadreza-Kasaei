@@ -42,8 +42,7 @@ the stability under unexpected perturbations.
 <br> <a href="https://youtu.be/sdcREkRHk-Q"> <b>Video</b></a> &emsp; &emsp; <a href="https://arxiv.org/pdf/2011.13798.pdf"> <b>Paper</b></a> 
  </td>
   </tr>
-
-
+</table>
 
 # Contact
 Dr.Mohammadreza Kasaei\
