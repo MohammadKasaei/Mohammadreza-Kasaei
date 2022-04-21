@@ -15,13 +15,18 @@
 
 # Research and Publication
 <table>
+<style>
+th, td {
+  border-style:None;}
+</style>
+
   <tr>
-    <th style="width:30%"></th>
+    <th style="width:35%"></th>
     <th></th>
   </tr>
 
   <tr>
-    <td><img src="./imgs/kernel.png" align="left" /></td>
+    <td><img src="./imgs/kernel.png"/></td>
     <td> <b> + Learning Hybrid Locomotion Skills – Learn to Exploit Residual
 Dynamics and Modulate Model-based Gait Control:</b> <br>
     This work aims to combine machine learning and
