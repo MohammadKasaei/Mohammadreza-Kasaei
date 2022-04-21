@@ -21,7 +21,7 @@ td, th {border:hidden;}
 </style>
 
 
-<table style="border:hidden;">
+<table style="border:hidden;cellspacing=0; cellpadding=0;">
 
 <!-- <style>
 th, td {
@@ -34,7 +34,7 @@ th, td {
   </tr>
 
   <tr>
-    <td><img src="./imgs/kernel.png"/></td>
+    <td style = ""><img src="./imgs/kernel.png"/></td>
     <td> <b> + Learning Hybrid Locomotion Skills – Learn to Exploit Residual
 Dynamics and Modulate Model-based Gait Control:</b> <br>
     This work aims to combine machine learning and
