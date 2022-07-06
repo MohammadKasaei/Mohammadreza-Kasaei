@@ -9,9 +9,20 @@
  [Google scholar](https://scholar.google.com/citations?user=2aY06V4AAAAJ&hl=en) \ [My Ph.D. contibutions](http://wiki.ieeta.pt/wiki/index.php/Mohammadreza_Kasaei) \ [Linkedin](https://www.linkedin.com/in/mohammadreza-kasaei-0a891ab6/) \ [AIR-Lab](https://advanced-intelligent-robotics-lab.gitlab.io/)
 
 ----------
+<table style="border:hidden;cellspacing=0; cellpadding=0;">
+  <tr>
+    <td style = ""><img src="./imgs/kernel.png"/></td>
+    <td style = ""><img src="./imgs/kernel.png"/></td>
+    <td style = ""><img src="./imgs/kernel.png"/></td>
+
+  </tr>
+</table>
 
 # Latest News
  - **March 2022:** We proposed a framework for <span style="color:#006600"> <b>Learning Hybrid Locomotion Skills - Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control</b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2011.13798).
+
+
+
 
 # Research and Publication
 
