@@ -9,13 +9,22 @@
  [Google scholar](https://scholar.google.com/citations?user=2aY06V4AAAAJ&hl=en) \ [My Ph.D. contibutions](http://wiki.ieeta.pt/wiki/index.php/Mohammadreza_Kasaei) \ [Linkedin](https://www.linkedin.com/in/mohammadreza-kasaei-0a891ab6/) \ [AIR-Lab](https://advanced-intelligent-robotics-lab.gitlab.io/)
 
 ----------
+
 <table style="border:hidden;cellspacing=0; cellpadding=0;">
   <tr>
-    <td style = ""><img src="./imgs/kernel.png"/></td>
-    <td style = ""><img src="./imgs/kernel.png"/></td>
-    <td style = ""><img src="./imgs/kernel.png"/></td>
-
+    <td width = "33%"><img src="./imgs/Simul.gif"/></td>
+    <td width = "33%"><img src="./imgs/cluttered.gif"/></td>
+    <td width = "33%"><img src="./imgs/Nextage.gif"/></td>
   </tr>
+  <tr>
+    <td width = "33%"><img src="./imgs/humanoid.gif"/></td>
+    <td width = "33%"><img src="./imgs/Talos.gif"/></td>
+    <td width = "33%"><img src="./imgs/A1.gif"/></td>
+  </tr>
+  <tr>
+    <td width = "33%"><img src="./imgs/softRobot.gif"/></td>
+  </tr>
+  
 </table>
 
 # Latest News
