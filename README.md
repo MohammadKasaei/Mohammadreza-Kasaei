@@ -4,7 +4,7 @@
 
 <!-- <p style="text-align:left;"> -->
 
- I am a research associate (postdoc) at the [University of Edinburgh](https://www.ed.ac.uk/).  My research focuses on efficient machine learning for robotics including deep reinforcement learning and computer vision. These days, I am particularly interested in neural ODE and its applications in developing scalable imitation learning algorithms, physics-informed neural networks to learn residual dynamics and residual actions, also deep learning approaches for visual object perception, segmentation and grasp pose prediction in highly cluttered environments. I have evaluated my works on different robotic platforms, including Nextage, robotic arms (UR5, Franka), legged robots (biped and quadruped) and soft robots. 
+ I am a research associate (postdoc) at the [University of Edinburgh](https://www.ed.ac.uk/).  My research focuses on efficient machine learning for robotics including deep reinforcement learning and computer vision. These days, I am particularly interested in neural ODE and its applications in developing scalable imitation learning algorithms, physics-informed neural networks (PINN) to learn residual dynamics and residual actions, also deep learning approaches for visual object perception, segmentation and grasp pose prediction in highly cluttered environments. I have evaluated my works on different robotic platforms, including Nextage, robotic arms (UR5, Franka), legged robots (biped and quadruped) and soft robots. 
  <!-- </p> -->
 <br />
 <br />
@@ -13,7 +13,6 @@
  [Google scholar](https://scholar.google.com/citations?user=2aY06V4AAAAJ&hl=en) / [My Ph.D. contibutions](http://wiki.ieeta.pt/wiki/index.php/Mohammadreza_Kasaei) / [Linkedin](https://www.linkedin.com/in/mohammadreza-kasaei-0a891ab6/) / [AIR-Lab](https://advanced-intelligent-robotics-lab.gitlab.io/)
 
 ----------
-
 <table style="border:hidden;cellspacing=0; cellpadding=0;">
   <tr>
     <td width = "33%"><img src="./imgs/Simul.gif"/></td>
@@ -27,6 +26,9 @@
   </tr>
   <tr>
     <td width = "33%"><img src="./imgs/softRobot.gif"/></td>
+    <td width = "33%"><img src="./imgs/softRobotMPC.gif"/></td>
+    <td width = "33%"><img src="./imgs/softRobotNode.gif"/></td>
+    
   </tr>
   
 </table>
@@ -65,7 +67,7 @@ th, td {
  <a href="https://arxiv.org/pdf/2011.13798.pdf"> <b>Paper</b></a> 
  </td>
   </tr>
-<!-- ------------------------------------------------------------------------------- -->
+
 
 
 
