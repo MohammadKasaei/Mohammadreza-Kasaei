@@ -40,6 +40,9 @@
  - **March 2022:** We proposed a framework for <span style="color:#006600"> <b>Learning Hybrid Locomotion Skills - Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control</b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2011.13798).
 
 
+ - **July 2022:** We proposed a framework for <span style="color:#006600"> <b>Learning Hybrid Locomotion Skills - Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control</b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2103.10997.pdf).
+
+
 
 
 # Research and Publication
@@ -70,6 +73,15 @@ th, td {
  </td>
   </tr>
 
+
+<tr>
+    <td style = ""><img src="./imgs/mvgrasp.png"/></td>
+    <td> <b> + MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments:</b> <br>
+    Nowadays robots play an increasingly important role in our daily life. In human-centered environments, robots often encounter piles of objects, packed items, or isolated objects. Therefore, a robot must be able to grasp and manipulate different objects in various situations to help humans with daily tasks. In this paper, we propose a multi-view deep learning approach to handle robust object grasping in human-centric domains. In particular, our approach takes a point cloud of an arbitrary object as an input, and then, generates orthographic views of the given object. The obtained views are finally used to estimate pixel-wise grasp synthesis for each object. We train the model end-to-end using a synthetic object grasp dataset and test it on both simulation and real-world data without any further fine-tuning.
+<br> <a href="https://youtu.be/r7Ra8BJsAY4"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/pdf/2103.10997.pdf"> <b>Paper</b></a> 
+ </td>
+  </tr>
 
 
 
