@@ -41,6 +41,9 @@
 
  - **September 2022:** We proposed <span style="color:#006600"> <b> Throwing Objects into A Moving Basket While Avoiding Obstacles </b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2210.00609.pdf). 
 
+- **July 2022:** We proposed <span style="color:#006600"> <b> Design, Modelling, and Control of an Extensible
+Flexible Finger for Robotic Manipulation</b></span>. The paper is under review but the video is available online at [Here](https://youtu.be/6k-fM8i5uTo).
+
  - **July 2022:** We proposed <span style="color:#006600"> <b> MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments</b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2103.10997.pdf).
 
 - **July 2022:**  The FCPortugal, a 3D soccer simulation team, a partnership between the universities of Aveiro and Porto, became <span style="color:#FF0000"> <b> world champion in the 3D Simulation League, in the RoboCup 2022</b></span>, held in Thailand. In this league, teams of 11 fully autonomous, simulated humanoid robots play football against each other. It has been my pleasure to contribute to developing walk engines that are agile and robust. 
@@ -101,6 +104,16 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
  </td>
   </tr>
 
+
+<tr>
+    <td style = ""><img src="./imgs/softRobot.jpg"/></td>
+    <td> <b> + Design, Modelling, and Control of an Extensible Flexible Finger for Robotic Manipulation:</b> <br>
+    <p align="justify">  This work presents a novel cable-driven soft robot capable of flexing in $3$D space with an additional degree of freedom for extension and retraction. In comparison with non-extensible soft robots, the proposed robot provides a larger workspace to reach 3D targeted points. We detail the robot design and prototyping, develop a novel mathematical model for predicting the robot's motion, and employ the model to control the robot that can autonomously follow time-varying trajectories.
+</p>
+<br> <a href="https://youtu.be/_y7LvG-JS4M"> <b>Video</b></a> &emsp; &emsp;
+ <!-- <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper</b></a>  -->
+ </td>
+  </tr>
 
 <tr>
     <td style = ""><img src="./imgs/nodeSoftRobot.png"/></td>
