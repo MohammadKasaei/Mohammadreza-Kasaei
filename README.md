@@ -112,7 +112,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 <tr>
     <td style = ""><img src="./imgs/softRobot.jpg"/></td>
     <td> <b> + Design, Modelling, and Control of an Extensible Flexible Finger for Robotic Manipulation:</b> <br>
-    <p align="justify">  This work presents a novel cable-driven soft robot capable of flexing in $3$D space with an additional degree of freedom for extension and retraction. In comparison with non-extensible soft robots, the proposed robot provides a larger workspace to reach 3D targeted points. We detail the robot design and prototyping, develop a novel mathematical model for predicting the robot's motion, and employ the model to control the robot that can autonomously follow time-varying trajectories.
+    <p align="justify">  This work presents a novel cable-driven soft robot capable of flexing in 3D space with an additional degree of freedom for extension and retraction. In comparison with non-extensible soft robots, the proposed robot provides a larger workspace to reach 3D targeted points. We detail the robot design and prototyping, develop a novel mathematical model for predicting the robot's motion, and employ the model to control the robot that can autonomously follow time-varying trajectories.
 </p>
 <br> <a href="https://youtu.be/_y7LvG-JS4M"> <b>Video</b></a> &emsp; &emsp;
  <!-- <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper</b></a>  -->
