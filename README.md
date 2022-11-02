@@ -125,6 +125,20 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
  </td>
   </tr>
 
+
+<tr>
+    <td style = ""><img src="./imgs/locoMilo.gif"/></td>
+    <td> <b> + Agile and Versatile Robot Locomotion via Kernel-based Residual Learning:</b> <br>
+    <p align="justify"> This work developed a kernel-based residual learning framework for quadrupedal robotic locomotion. Initially, a kernel neural network is trained with data collected from an MPC controller. Alongside a frozen kernel network, a residual controller network is trained via reinforcement learning to acquire generalized locomotion skills and resilience against external perturbations. With this proposed framework, a robust quadrupedal locomotion controller is learned with high sample efficiency and controllability, providing omnidirectional locomotion at continuous velocities. Its versatility and robustness are validated on unseen terrains that the expert MPC controller fails to traverse. Furthermore, the learned kernel can produce a range of functional locomotion behaviors and can generalize to unseen gaits.
+</p>
+<br> <a href="https://youtu.be/MK_s75UpDAg"> <b>Video</b></a> &emsp; &emsp;
+ <!-- <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper</b></a>  -->
+ </td>
+  </tr>
+
+
+
+
 </table>
 
 # Contact
