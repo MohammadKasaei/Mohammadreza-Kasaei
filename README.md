@@ -140,6 +140,19 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
   </tr>
 
 
+<tr>
+    <td style = ""><img src="./imgs/ssg.png"/></td>
+    <td> <b> + Instance-wise Grasp Synthesis for Robotic Grasping:</b> <br>
+    <p align="justify"> Generating high-quality instance-wise grasp configurations provides critical information of how to grasp specific objects in a multi-object environment and is of high importance for robot manipulation tasks. This work proposed a novel Single-Stage Grasp (SSG) synthesis network, which performs high-quality instance-wise grasp synthesis in a single stage: instance mask and grasp configurations are generated for each object simultaneously. Our method outperforms state-of-the-art on robotic grasp prediction based on the OCID-Grasp dataset, and performs competitively on the JACQUARD dataset. The benchmarking results showed significant improvements compared to the baseline on the accuracy of generated grasp configurations. 
+</p>
+<br> <a href="https://youtu.be/MK_s75UpDAg"> <b>Video</b></a> &emsp; &emsp;
+ <!-- <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper</b></a>  -->
+ </td>
+  </tr>
+
+
+
+
 
 
 </table>
