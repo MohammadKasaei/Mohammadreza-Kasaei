@@ -37,7 +37,10 @@
 
 # Latest News
   
-  - **September 2022:** We proposed <span style="color:#006600"> <b> Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator </b></span>. The paper is under review but the video is available online at [Here](https://youtu.be/_y7LvG-JS4M). 
+  - **September 2022:** We proposed <span style="color:#006600"> <b> Agile and Versatile Robot Locomotion via Kernel-based Residual Learning </b></span>. The paper is under review but the video is available online at [Here](https://youtu.be/MK_s75UpDAg). 
+
+
+- **September 2022:** We proposed <span style="color:#006600"> <b> Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator </b></span>. The paper is under review but the video is available online at [Here](https://youtu.be/_y7LvG-JS4M). 
 
  - **September 2022:** We proposed <span style="color:#006600"> <b> Throwing Objects into A Moving Basket While Avoiding Obstacles </b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2210.00609.pdf). 
 
