@@ -36,6 +36,8 @@
 </table>
 
 # Latest News
+  - **October 2022:** Our paper entitled  <span style="color:#006600"> <b> MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments</b></span> got accepted to Robotics and Autonomous Systems (RAS)!!
+
   - **September 2022:** We proposed <span style="color:#006600"> <b> Instance-wise Grasp Synthesis for Robotic Grasping </b></span>. The paper is under review. 
 
   - **September 2022:** We proposed <span style="color:#006600"> <b> Agile and Versatile Robot Locomotion via Kernel-based Residual Learning </b></span>. The paper is under review but the video is available online at [Here](https://youtu.be/MK_s75UpDAg). 
