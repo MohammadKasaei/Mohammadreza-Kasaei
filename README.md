@@ -45,7 +45,7 @@
 
 - **September 2022:** We proposed <span style="color:#006600"> <b> Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator </b></span>. The paper is under review but the video is available online at [Here](https://youtu.be/_y7LvG-JS4M). 
 
- - **September 2022:** We proposed <span style="color:#006600"> <b> Throwing Objects into A Moving Basket While Avoiding Obstacles </b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2210.00609.pdf). 
+ - **September 2022:** We proposed <span style="color:#006600"> <b> Throwing Objects into A Moving Basket While Avoiding Obstacles </b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2210.00609.pdf) and the video can be watched at [Here](https://youtu.be/VmIFF__c_84) 
 
 - **July 2022:** We proposed <span style="color:#006600"> <b> Design, Modelling, and Control of an Extensible
 Flexible Finger for Robotic Manipulation</b></span>. The paper is under review but the video is available online at [Here](https://youtu.be/6k-fM8i5uTo).
