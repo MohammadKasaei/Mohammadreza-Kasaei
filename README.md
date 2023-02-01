@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td width = "33%"><img src="./imgs/softRobot.gif"/></td>
-    <td width = "33%"><img src="./imgs/softRobotMPC.gif"/></td>
+    <td width = "33%"><img src="./imgs/softRobot22.gif"/></td>
     <td width = "33%"><img src="./imgs/softRobotNode.gif"/></td>
     
   </tr>
