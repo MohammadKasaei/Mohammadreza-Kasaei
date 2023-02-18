@@ -128,7 +128,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
     <p align="justify"> This work developed a kernel-based residual learning framework for quadrupedal robotic locomotion. Initially, a kernel neural network is trained with data collected from an MPC controller. Alongside a frozen kernel network, a residual controller network is trained via reinforcement learning to acquire generalized locomotion skills and resilience against external perturbations. With this proposed framework, a robust quadrupedal locomotion controller is learned with high sample efficiency and controllability, providing omnidirectional locomotion at continuous velocities. Its versatility and robustness are validated on unseen terrains that the expert MPC controller fails to traverse. Furthermore, the learned kernel can produce a range of functional locomotion behaviors and can generalize to unseen gaits.
 </p>
 <br> <a href="https://youtu.be/MK_s75UpDAg"> <b>Video</b></a> &emsp; &emsp;
- <!-- <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper</b></a>  -->
+ <a href="https://arxiv.org/pdf/2302.07343.pdf"> <b>Paper</b></a> 
  </td>
   </tr>
 
@@ -139,8 +139,8 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
     <p align="justify"> Generating high-quality instance-wise grasp configurations provides critical information of how to grasp specific objects in a multi-object environment and is of high importance for robot manipulation tasks. This work proposed a novel Single-Stage Grasp (SSG) synthesis network, which performs high-quality instance-wise grasp synthesis in a single stage: instance mask and grasp configurations are generated for each object simultaneously. Our method outperforms state-of-the-art on robotic grasp prediction based on the OCID-Grasp dataset, and performs competitively on the JACQUARD dataset. The benchmarking results showed significant improvements compared to the baseline on the accuracy of generated grasp configurations. 
 </p>
 <br> 
-<!-- <a href="https://youtu.be/MK_s75UpDAg"> <b>Video</b></a> &emsp; &emsp; -->
- <!-- <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper</b></a>  -->
+<a href="https://youtu.be/riBXMgrupUw"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/pdf/2302.07824.pdf"> <b>Paper</b></a> 
  </td>
   </tr>
 
