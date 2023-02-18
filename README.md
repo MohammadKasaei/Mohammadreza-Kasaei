@@ -168,4 +168,4 @@ Bayes Centre - G1.10\
 47 Potterrow\
 Edinburgh\
 EH8 9BT\
-Email: m.kasaei@ed.ac.uk
+Email: m.kasaei[at]ed.ac.uk
