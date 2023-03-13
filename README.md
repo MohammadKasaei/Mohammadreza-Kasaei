@@ -38,11 +38,11 @@
 # Latest News
   - **March 2023:** Our paper entitled  <span style="color:#006600"> <b> Learning Hybrid Locomotion Skills -Learn to Exploit Residual Actions and Modulate Model-based Gait Control</b></span> got accepted to Frontiers Robotics and AI!
 
-  - **February 2023:** Mohammadreza Kasaei gave a talk at IPAB workshop in the University of Edinburgh, UK | **Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator**.
+  - **February 2023:** Mohammadreza Kasaei gave a talk at IPAB workshop in the University of Edinburgh, UK entitled **Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator**.
   
   - **January 2023:** My research team has had four papers accepted for presentation at the 2023 International Conference on Robotics and Automation [(ICRA 2023)](https://www.icra2023.org/). 
   
-  - **November 2022:**: Mohammadreza Kasaei gave an invited talk at the University of Aveiro, Portugal | Seminar in Robotics and Intelligent Systems on Robotics for Society: Recent Research in Locomotion and Manipulation.
+  - **November 2022:**: Mohammadreza Kasaei gave an invited talk at the University of Aveiro, Portugal in a Seminar in Robotics and Intelligent Systems on Robotics for Society: Recent Research in Locomotion and Manipulation.
   
   - **October 2022:** Our paper entitled  <span style="color:#006600"> <b> MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments</b></span> got accepted to Robotics and Autonomous Systems (RAS)!!
 
