@@ -36,7 +36,14 @@
 </table>
 
 # Latest News
+  - **March 2022:** Our paper entitled  <span style="color:#006600"> <b> Learning Hybrid Locomotion Skills -Learn to Exploit Residual Actions and Modulate Model-based Gait Control</b></span> got accepted to Frontiers Robotics and AI!
+
+  - **February 2023:** Mohammadreza Kasaei gave a talk at IPAB workshop in the University of Edinburgh, UK | **Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator**.
+  
   - **January 2023:** My research team has had four papers accepted for presentation at the 2023 International Conference on Robotics and Automation [(ICRA 2023)](https://www.icra2023.org/). 
+  
+  - **November 2022:**: Mohammadreza Kasaei gave an invited talk at the University of Aveiro, Portugal | Seminar in Robotics and Intelligent Systems on Robotics for Society: Recent Research in Locomotion and Manipulation.
+  
   - **October 2022:** Our paper entitled  <span style="color:#006600"> <b> MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments</b></span> got accepted to Robotics and Autonomous Systems (RAS)!!
 
   - **September 2022:** We proposed <span style="color:#006600"> <b> Instance-wise Grasp Synthesis for Robotic Grasping </b></span>. The paper has been accepted at ICRA 2023. 
@@ -55,7 +62,7 @@ Flexible Finger for Robotic Manipulation</b></span>. The paper is under review b
 
 - **July 2022:**  The FCPortugal, a 3D soccer simulation team, a partnership between the universities of Aveiro and Porto, became <span style="color:#FF0000"> <b> world champion in the 3D Simulation League, in the RoboCup 2022</b></span>, held in Thailand. In this league, teams of 11 fully autonomous, simulated humanoid robots play football against each other. It has been my pleasure to contribute to developing walk engines that are agile and robust (final video is available online [Here](https://www.youtube.com/watch?v=foNHQF4uLXQ&ab_channel=BahiaRT) and to read more detail please click [Here](http://wiki.ieeta.pt/wiki/index.php/FC_Portugal_is_World_Champion_at_RoboCup_2022_3D_Simulation_League)). 
 
-- **March 2022:** We proposed a framework for <span style="color:#006600"> <b>Learning Hybrid Locomotion Skills - Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control</b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2011.13798).
+<!-- - **March 2022:** We proposed a framework for <span style="color:#006600"> <b>Learning Hybrid Locomotion Skills - Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control</b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2011.13798). -->
 
 # Research and Publication
 
