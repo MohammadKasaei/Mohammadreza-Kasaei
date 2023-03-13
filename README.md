@@ -36,7 +36,7 @@
 </table>
 
 # Latest News
-  - **March 2022:** Our paper entitled  <span style="color:#006600"> <b> Learning Hybrid Locomotion Skills -Learn to Exploit Residual Actions and Modulate Model-based Gait Control</b></span> got accepted to Frontiers Robotics and AI!
+  - **March 2023:** Our paper entitled  <span style="color:#006600"> <b> Learning Hybrid Locomotion Skills -Learn to Exploit Residual Actions and Modulate Model-based Gait Control</b></span> got accepted to Frontiers Robotics and AI!
 
   - **February 2023:** Mohammadreza Kasaei gave a talk at IPAB workshop in the University of Edinburgh, UK | **Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator**.
   
