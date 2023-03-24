@@ -155,7 +155,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 
 
   <tr>
-    <td style = ""><img src="./imgs/humanoidWalking.gif"/></td>
+    <td style = ""><img src="./imgs/robocup22.jpg"/></td>
     <td> <b> + FC Portugal: RoboCup 2022 3D Simulation League and Technical Challenge Champions:</b> <br>
     <p align="justify">
      FC Portugal, a team from the universities of Porto and Aveiro, won the main competition of the **2022 RoboCup 3D Simulation League**, with 17 wins, 1 tie and no losses. During the course of the competition, the team scored 84 goals while conceding only 2. FC Portugal also won the 2022 RoboCup 3D Simulation League Technical Challenge, accumulating the maximum amount of points by ending first in its both events: the Free/Scientific Challenge, and the Fat Proxy Challenge. The team presented in this year’s competition was rebuilt from the ground up since the last RoboCup. No previous code was used or adapted, with the exception of the 6D pose estimation algorithm, and the get-up behaviors, which were re-optimized. This paper describes the team’s new architecture and development approach. Key strategy elements include team coordination, role management, formation, communication, skill management and path planning. New lower-level skills were based on a deterministic analytic model and a shallow neural network that learned residual dynamics through reinforcement learning. This process, together with an overlapped learning approach, improved seamless transitions, learning time, and the behavior in terms of efficiency and stability. In comparison with the previous team, the omnidirectional walk is more stable and went from 0.70 m/s to 0.90 m/s, the long kick from 15 m to 19 m, and the new close-control dribble reaches up to 1.41 m/s.
@@ -167,7 +167,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 
 
   <tr>
-    <td style = ""><img src="./imgs/robocup22.jpg"/></td>
+    <td style = ""><img src="./imgs/humanoidWalking.gif"/></td>
     <td> <b> + Learning Hybrid Locomotion Skills – Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control:</b> <br>
     <p align="justify">
     This work aims to combine machine learning and control approaches for legged robots, and developed a hybrid framework to achieve new capabilities of balancing against external perturbations. The framework embeds a kernel which is a fully parametric closed-loop gait generator based on analytical control. On top of that, a neural network with symmetric partial data augmentation learns to automatically adjust the parameters for the gait kernel and to generate compensatory actions for all joints as the residual dynamics, thus significantly augmenting the stability under unexpected perturbations. </p>
