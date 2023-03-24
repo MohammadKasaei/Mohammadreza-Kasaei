@@ -85,6 +85,20 @@ th, td {
     <th></th>
   </tr>
 
+
+<tr>
+    <td style = ""><img src="./imgs/TiV-ODE.gif"/></td>
+    <td> <b> + Controllable Video Generation by Learning the Underlying Dynamical System
+with Neural ODE:</b> <br>
+    <p align="justify">
+The work introduces a novel framework, named TiV-ODE, which enables the generation of highly controllable videos using a static image and text caption. The framework relies on the Neural Ordinary Differential Equations (Neural ODEs) to represent complex underlying dynamical systems through a set of nonlinear ordinary differential equations. The proposed method generates videos that possess both the desired dynamics and content. The experimental results demonstrate the effectiveness of the approach in producing visually consistent and highly controllable videos while modeling dynamical systems. This work represents a significant advancement towards developing advanced models for generating controllable videos that can handle complex and dynamic scenes.
+</p>
+<!-- <br> <a href="https://youtu.be/r7Ra8BJsAY4"> <b>Video</b></a> &emsp; &emsp; -->
+ <a href="https://arxiv.org/pdf/2303.05323.pdf"> <b>Paper</b></a> 
+ </td>
+  </tr>
+
+
 <tr>
     <td style = ""><img src="./imgs/dual_arm_grasping.gif"/></td>
     <td> <b> + MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments:</b> <br>
@@ -158,7 +172,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
     <td style = ""><img src="./imgs/robocup22.jpg"/></td>
     <td> <b> + FC Portugal: RoboCup 2022 3D Simulation League and Technical Challenge Champions:</b> <br>
     <p align="justify">
-     FC Portugal, a team from the universities of Porto and Aveiro, won the main competition of the **2022 RoboCup 3D Simulation League**, with 17 wins, 1 tie and no losses. During the course of the competition, the team scored 84 goals while conceding only 2. FC Portugal also won the 2022 RoboCup 3D Simulation League Technical Challenge, accumulating the maximum amount of points by ending first in its both events: the Free/Scientific Challenge, and the Fat Proxy Challenge. The team presented in this year’s competition was rebuilt from the ground up since the last RoboCup. No previous code was used or adapted, with the exception of the 6D pose estimation algorithm, and the get-up behaviors, which were re-optimized. This paper describes the team’s new architecture and development approach. Key strategy elements include team coordination, role management, formation, communication, skill management and path planning. New lower-level skills were based on a deterministic analytic model and a shallow neural network that learned residual dynamics through reinforcement learning. This process, together with an overlapped learning approach, improved seamless transitions, learning time, and the behavior in terms of efficiency and stability. In comparison with the previous team, the omnidirectional walk is more stable and went from 0.70 m/s to 0.90 m/s, the long kick from 15 m to 19 m, and the new close-control dribble reaches up to 1.41 m/s.
+     FC Portugal, a team from the universities of Porto and Aveiro, won the main competition of the **2022 RoboCup 3D Simulation League**, with 17 wins, 1 tie and no losses. During the course of the competition, the team scored 84 goals while conceding only 2. FC Portugal also won the 2022 RoboCup 3D Simulation League Technical Challenge, accumulating the maximum amount of points by ending first in its both events: the Free/Scientific Challenge, and the Fat Proxy Challenge. The team presented in this year’s competition was rebuilt from the ground up since the last RoboCup. No previous code was used or adapted, with the exception of the 6D pose estimation algorithm, and the get-up behaviors, which were re-optimized. In comparison with our previous team, the omnidirectional walk is more stable and went from 0.70 m/s to 0.90 m/s, the long kick from 15 m to 19 m, and the new close-control dribble reaches up to 1.41 m/s.
    </p>
 <br> <a href="https://www.youtube.com/live/foNHQF4uLXQ?feature=share"> <b>Video</b></a> &emsp; &emsp;
   <a href="https://www.springerprofessional.de/en/fc-portugal-robocup-2022-3d-simulation-league-and-technical-chal/24669132"> <b>Paper</b></a> &emsp; &emsp;<a href="https://archive.robocup.info/Soccer/Simulation/3D/TDPs/RoboCup/2022/FCPortugal_SS3D_RC2022_TDP.pdf"> <b>TDP</b></a> 
