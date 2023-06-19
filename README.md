@@ -36,6 +36,9 @@
 </table>
 
 # Latest News
+
+  - **June 2023:** Our poster, <span style="color:#006600"> <b> A Novel Extensible Flexible Arm for Robotic </b></span> got the best poster award in Soft Growing Robots: From Search-and-Rescue to Intraluminal Interventions in [(ICRA 2023)](https://www.icra2023.org/).  
+
   - **March 2023:** We proposed <span style="color:#006600"> <b> Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE </b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2303.05323.pdf)
   
   - **March 2023:** Our paper entitled  <span style="color:#006600"> <b> Learning Hybrid Locomotion Skills -Learn to Exploit Residual Actions and Modulate Model-based Gait Control</b></span> got accepted to Frontiers Robotics and AI!
