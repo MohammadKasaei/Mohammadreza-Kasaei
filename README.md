@@ -91,13 +91,24 @@ th, td {
 
 
 <tr>
+    <td style = ""><img src="./imgs/tactip_grasp.gif"/></td>
+    <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
+    <p align="justify">
+This work develops a data-efficient learning from demonstration framework which exploits the use of rich tactile sensing and achieves fine dexterous bimanual manipulation. Specifically, we formulated a convolutional autoencoder network that can effectively extract and encode high-dimensional tactile information. Further, we developed a behaviour cloning network that can learn human-like sensorimotor skills demonstrated directly on the robot hardware in the task space by fusing both proprioceptive and tactile feedback. Our comparison study with the baseline method revealed the effectiveness of the contact information, which enabled successful extraction and replication of the demonstrated motor skills.
+</p>
+<br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/abs/2307.04619"> <b>Paper</b></a> 
+ </td>
+  </tr>
+
+<tr>
     <td style = ""><img src="./imgs/TiV-ODE.gif"/></td>
     <td> <b> + Controllable Video Generation by Learning the Underlying Dynamical System
 with Neural ODE:</b> <br>
     <p align="justify">
 The work introduces a novel framework, named TiV-ODE, which enables the generation of highly controllable videos using a static image and text caption. The framework relies on the Neural Ordinary Differential Equations (Neural ODEs) to represent complex underlying dynamical systems through a set of nonlinear ordinary differential equations. The proposed method generates videos that possess both the desired dynamics and content. The experimental results demonstrate the effectiveness of the approach in producing visually consistent and highly controllable videos while modeling dynamical systems. This work represents a significant advancement towards developing advanced models for generating controllable videos that can handle complex and dynamic scenes.
 </p>
-<!-- <br> <a href="https://youtu.be/r7Ra8BJsAY4"> <b>Video</b></a> &emsp; &emsp; -->
+<!-- <br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp; -->
  <a href="https://arxiv.org/pdf/2303.05323.pdf"> <b>Paper</b></a> 
  </td>
   </tr>
