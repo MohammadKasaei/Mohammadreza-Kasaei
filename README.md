@@ -36,10 +36,11 @@
 </table>
 
 # Latest News
-
+  - **July 2023:** We proposed <span style="color:#006600"> <b> Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data</b></span>. The paper is available online [Here](https://arxiv.org/abs/2307.04619).
+  
   - **June 2023:** Our poster, <span style="color:#006600"> <b> A Novel Extensible Flexible Arm for Robotic </b></span> got the best poster award in [Soft Growing Robots:](https://www.growing-robots.com/) From Search-and-Rescue to Intraluminal Interventions in [(ICRA 2023)](https://www.icra2023.org/).  
 
-  - **March 2023:** We proposed <span style="color:#006600"> <b> Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE </b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2303.05323.pdf).
+  - **March 2023:** We proposed <span style="color:#006600"> <b> Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE </b></span>. The paper is available online [Here](https://arxiv.org/pdf/2303.05323.pdf).
   
   - **March 2023:** Our paper entitled  <span style="color:#006600"> <b> Learning Hybrid Locomotion Skills -Learn to Exploit Residual Actions and Modulate Model-based Gait Control</b></span> got accepted to Frontiers Robotics and AI!
 
@@ -53,21 +54,21 @@
 
   - **September 2022:** We proposed <span style="color:#006600"> <b> Instance-wise Grasp Synthesis for Robotic Grasping </b></span>. The paper has been accepted at ICRA 2023. 
 
-  - **September 2022:** We proposed <span style="color:#006600"> <b> Agile and Versatile Robot Locomotion via Kernel-based Residual Learning </b></span>. The paper has been accepted at ICRA 2023, the video is available online at [Here](https://youtu.be/MK_s75UpDAg). 
+  - **September 2022:** We proposed <span style="color:#006600"> <b> Agile and Versatile Robot Locomotion via Kernel-based Residual Learning </b></span>. The paper has been accepted at ICRA 2023, the video is available online [Here](https://youtu.be/MK_s75UpDAg). 
 
 
-- **September 2022:** We proposed <span style="color:#006600"> <b> Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator </b></span>.  The paper has been accepted at ICRA 2023 and the video is available online at [Here](https://youtu.be/_y7LvG-JS4M). 
+- **September 2022:** We proposed <span style="color:#006600"> <b> Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator </b></span>.  The paper has been accepted at ICRA 2023 and the video is available online [Here](https://youtu.be/_y7LvG-JS4M). 
 
- - **September 2022:** We proposed <span style="color:#006600"> <b> Throwing Objects into A Moving Basket While Avoiding Obstacles </b></span>. This paper has been accepted at ICRA 2023. The paper is available online at [Here](https://arxiv.org/pdf/2210.00609.pdf) and the video can be watched at [Here](https://youtu.be/VmIFF__c_84) 
+ - **September 2022:** We proposed <span style="color:#006600"> <b> Throwing Objects into A Moving Basket While Avoiding Obstacles </b></span>. This paper has been accepted at ICRA 2023. The paper is available online [Here](https://arxiv.org/pdf/2210.00609.pdf) and the video can be watched at [Here](https://youtu.be/VmIFF__c_84) 
 
 - **July 2022:** We proposed <span style="color:#006600"> <b> Design, Modelling, and Control of an Extensible
-Flexible Finger for Robotic Manipulation</b></span>. The paper is under review but the video is available online at [Here](https://youtu.be/6k-fM8i5uTo).
+Flexible Finger for Robotic Manipulation</b></span>. The paper is under review but the video is available online [Here](https://youtu.be/6k-fM8i5uTo).
 
- - **July 2022:** We proposed <span style="color:#006600"> <b> MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments</b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2103.10997.pdf).
+ - **July 2022:** We proposed <span style="color:#006600"> <b> MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments</b></span>. The paper is available online [Here](https://arxiv.org/pdf/2103.10997.pdf).
 
 - **July 2022:**  The FCPortugal, a 3D soccer simulation team, a partnership between the universities of Aveiro and Porto, became <span style="color:#FF0000"> <b> world champion in the 3D Simulation League, in the RoboCup 2022</b></span>, held in Thailand. In this league, teams of 11 fully autonomous, simulated humanoid robots play football against each other. It has been my pleasure to contribute to developing walk engines that are agile and robust (final video is available online [Here](https://www.youtube.com/watch?v=foNHQF4uLXQ&ab_channel=BahiaRT) and to read more detail please click [Here](http://wiki.ieeta.pt/wiki/index.php/FC_Portugal_is_World_Champion_at_RoboCup_2022_3D_Simulation_League)). 
 
-<!-- - **March 2022:** We proposed a framework for <span style="color:#006600"> <b>Learning Hybrid Locomotion Skills - Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control</b></span>. The paper is available online at [Here](https://arxiv.org/pdf/2011.13798). -->
+<!-- - **March 2022:** We proposed a framework for <span style="color:#006600"> <b>Learning Hybrid Locomotion Skills - Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control</b></span>. The paper is available online [Here](https://arxiv.org/pdf/2011.13798). -->
 
 # Research and Publication
 
