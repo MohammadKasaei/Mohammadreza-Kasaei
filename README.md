@@ -97,7 +97,7 @@ th, td {
 This work develops a data-efficient learning from demonstration framework which exploits the use of rich tactile sensing and achieves fine dexterous bimanual manipulation. Specifically, we formulated a convolutional autoencoder network that can effectively extract and encode high-dimensional tactile information. Further, we developed a behaviour cloning network that can learn human-like sensorimotor skills demonstrated directly on the robot hardware in the task space by fusing both proprioceptive and tactile feedback. Our comparison study with the baseline method revealed the effectiveness of the contact information, which enabled successful extraction and replication of the demonstrated motor skills.
 </p>
 <br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/abs/2307.04619"> <b>Paper</b></a> 
+ <a href="https://arxiv.org/pdf/2307.04619.pdf"> <b>Paper</b></a> 
  </td>
   </tr>
 
