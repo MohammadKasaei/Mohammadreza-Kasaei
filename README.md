@@ -156,7 +156,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
     <p align="justify"> This work proposed a novel data-efficient and non-parametric approach to develop a continuous model using a small dataset of real robot demonstrations (only 25 points). To the best of our knowledge, the proposed approach is the most sample-efficient method for soft continuum robot. Furthermore, we employed this model to develop a  controller to track arbitrary trajectories in the feasible kinematic space. 
 </p>
 <br> <a href="https://youtu.be/_y7LvG-JS4M"> <b>Video</b></a> &emsp; &emsp;
- <!-- <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper</b></a>  -->
+ <a href="https://ieeexplore.ieee.org/document/10161275"> <b>Paper</b></a> 
  </td>
   </tr>
 
