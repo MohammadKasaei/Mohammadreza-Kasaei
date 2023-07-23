@@ -27,7 +27,8 @@
     <td width = "33%"><img src="./imgs/A1.gif"/></td>
   </tr>
   <tr>
-    <td width = "33%"><img src="./imgs/softRobot.gif"/></td>
+    <!-- <td width = "33%"><img src="./imgs/softRobot.gif"/></td> -->
+    <td width = "33%"><img src="./imgs/tactip_grasp.gif"/></td>
     <td width = "33%"><img src="./imgs/softRobot22.gif"/></td>
     <td width = "33%"><img src="./imgs/throwing.gif"/></td>
     
