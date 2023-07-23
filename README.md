@@ -1,4 +1,4 @@
-<img src="./imgs/mypic.jpg" align="right" width="16%"/>
+<img src="./imgs/Mypic2.jpg" align="right" width="16%"/>
 <br />
 <br />
 
