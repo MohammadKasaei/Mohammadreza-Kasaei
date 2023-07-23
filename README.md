@@ -1,6 +1,6 @@
 <img src="./imgs/Mypic2.jpg" align="right" width="16%"/>
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
 <!-- <p style="text-align:left;"> -->
 <!-- <p align="justify"> -->
