@@ -37,14 +37,14 @@
 </table>
 
 # Latest News
- - **August 2023:** Our paper entitled <span style="color:#006600"> <b> A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators </b></span> got accepted for presentation at **CoRL 2023**. The paper will be available online soon. 
+ - **August 2023:** Our paper entitled <span style="color:#006600"> <b> A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper will be available online soon. 
  
- - **August 2023:**  Our paper entitled <span style="color:#006600"> <b>Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter </b></span> got accepted for presentation at **CoRL 2023**. The paper will be available online soon. 
+ - **August 2023:**  Our paper entitled <span style="color:#006600"> <b>Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper will be available online soon. 
  
   
   - **July 2023:** We proposed <span style="color:#006600"> <b> Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data</b></span>. The paper is available online [Here](https://arxiv.org/abs/2307.04619).
   
-  - **June 2023:** Our poster, <span style="color:#006600"> <b> A Novel Extensible Flexible Arm for Robotic </b></span> got the best poster award in [Soft Growing Robots:](https://www.growing-robots.com/) From Search-and-Rescue to Intraluminal Interventions in [(ICRA 2023)](https://www.icra2023.org/).  
+  - **June 2023:** Our poster, <span style="color:#006600"> <b> A Novel Extensible Flexible Arm for Robotic </b></span> got the best poster award in [Soft Growing Robots:](https://www.growing-robots.com/) From Search-and-Rescue to Intraluminal Interventions in [(**ICRA 2023**)](https://www.icra2023.org/).  
 
   - **March 2023:** We proposed <span style="color:#006600"> <b> Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE </b></span>. The paper is available online [Here](https://arxiv.org/pdf/2303.05323.pdf).
   
@@ -52,20 +52,20 @@
 
   - **February 2023:** Mohammadreza Kasaei gave a talk at IPAB workshop in the University of Edinburgh, UK entitled **Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator**.
   
-  - **January 2023:** My research team has had four papers accepted for presentation at the 2023 International Conference on Robotics and Automation [(ICRA 2023)](https://www.icra2023.org/). 
+  - **January 2023:** My research team has had four papers accepted for presentation at the 2023 International Conference on Robotics and Automation [(**ICRA 2023**)](https://www.icra2023.org/). 
   
   - **November 2022:**: Mohammadreza Kasaei gave an invited talk at the University of Aveiro, Portugal in a Seminar in Robotics and Intelligent Systems on Robotics for Society: Recent Research in Locomotion and Manipulation.
   
   - **October 2022:** Our paper entitled  <span style="color:#006600"> <b> MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments</b></span> got accepted to Robotics and Autonomous Systems (RAS)!!
 
-  - **September 2022:** We proposed <span style="color:#006600"> <b> Instance-wise Grasp Synthesis for Robotic Grasping </b></span>. The paper has been accepted at ICRA 2023. 
+  - **September 2022:** We proposed <span style="color:#006600"> <b> Instance-wise Grasp Synthesis for Robotic Grasping </b></span>. The paper has been accepted at [(**ICRA 2023**)](https://www.icra2023.org/). 
 
-  - **September 2022:** We proposed <span style="color:#006600"> <b> Agile and Versatile Robot Locomotion via Kernel-based Residual Learning </b></span>. The paper has been accepted at ICRA 2023, the video is available online [Here](https://youtu.be/MK_s75UpDAg). 
+  - **September 2022:** We proposed <span style="color:#006600"> <b> Agile and Versatile Robot Locomotion via Kernel-based Residual Learning </b></span>. The paper has been accepted at [(**ICRA 2023**)](https://www.icra2023.org/), the video is available online [Here](https://youtu.be/MK_s75UpDAg). 
 
 
-- **September 2022:** We proposed <span style="color:#006600"> <b> Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator </b></span>.  The paper has been accepted at ICRA 2023 and the video is available online [Here](https://youtu.be/_y7LvG-JS4M). 
+- **September 2022:** We proposed <span style="color:#006600"> <b> Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator </b></span>.  The paper has been accepted at [(**ICRA 2023**)](https://www.icra2023.org/) and the video is available online [Here](https://youtu.be/_y7LvG-JS4M). 
 
- - **September 2022:** We proposed <span style="color:#006600"> <b> Throwing Objects into A Moving Basket While Avoiding Obstacles </b></span>. This paper has been accepted at ICRA 2023. The paper is available online [Here](https://arxiv.org/pdf/2210.00609.pdf) and the video can be watched at [Here](https://youtu.be/VmIFF__c_84) 
+ - **September 2022:** We proposed <span style="color:#006600"> <b> Throwing Objects into A Moving Basket While Avoiding Obstacles </b></span>. This paper has been accepted at [(**ICRA 2023**)](https://www.icra2023.org/). The paper is available online [Here](https://arxiv.org/pdf/2210.00609.pdf) and the video can be watched at [Here](https://youtu.be/VmIFF__c_84) 
 
 - **July 2022:** We proposed <span style="color:#006600"> <b> Design, Modelling, and Control of an Extensible
 Flexible Finger for Robotic Manipulation</b></span>. The paper is under review but the video is available online [Here](https://youtu.be/6k-fM8i5uTo).
