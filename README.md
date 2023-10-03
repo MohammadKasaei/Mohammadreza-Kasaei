@@ -37,9 +37,10 @@
 </table>
 
 # Latest News
- - **August 2023:** Our paper entitled <span style="color:#006600"> <b> A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper will be available online soon. 
+ - **August 2023:** Our paper entitled <span style="color:#006600"> <b> A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper is available online [Here](https://openreview.net/pdf?id=PalhNjBJqv).
  
- - **August 2023:**  Our paper entitled <span style="color:#006600"> <b>Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper will be available online soon. 
+ - **August 2023:**  Our paper entitled <span style="color:#006600"> <b>Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper is available online [Here](https://openreview.net/pdf?id=j2AQ-WJ_ze).
+ 
  
   
   - **July 2023:** We proposed <span style="color:#006600"> <b> Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data</b></span>. The paper is available online [Here](https://arxiv.org/abs/2307.04619).
