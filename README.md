@@ -97,6 +97,20 @@ th, td {
 
 
 <tr>
+    <td style = ""><img src="./imgs/corl_node.png"/></td>
+    <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
+    <p align="justify">
+ This paper introduces a novel approach for modeling continuous forward kinematic models of soft continuum robots by employing Augmented Neural ODE (ANODE), a cutting-edge family of deep neural network models. To the best of our knowledge, this is the first application of ANODE in modeling soft continuum robots. This formulation introduces auxiliary dimensions, allowing the system's states to evolve in the augmented space which provides a richer set of dynamics that the model can learn, increasing the flexibility and accuracy of the model. Our methodology achieves exceptional sample efficiency, training the continuous forward kinematic model using only 25 scattered data points.
+ Additionally, we design and implement a fully parallel Model Predictive Path Integral (MPPI)-based controller running on a GPU, which efficiently manages a non-convex objective function. Through a set of experiments, we showed that the proposed framework (ANODE+MPPI) significantly outperforms state-of-the-art learning based methods such as FNN and RNN in \mbox{unseen-before} scenarios and marginally outperforms them in seen-before scenarios.
+</p>
+<br> <a href="https://youtu.be/6tYS-5tkoQg"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://openreview.net/pdf?id=PalhNjBJqv"> <b>Paper</b></a>  &emsp;
+ <a href="https://github.com/MohammadKasaei/SoftRobotSimulator"> <b>Code</b></a> 
+ </td>
+  </tr>
+
+
+<tr>
     <td style = ""><img src="./imgs/tactip_grasp.gif"/></td>
     <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
     <p align="justify">
