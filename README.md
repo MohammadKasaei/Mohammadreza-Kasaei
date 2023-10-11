@@ -98,11 +98,25 @@ th, td {
 
 
 <tr>
-    <td style = ""><img src="./imgs/corl_node.png"/></td>
-    <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
+    <td style = ""><img src="./imgs/lang.png"/></td>
+    <td> <b> + Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter:</b> <br>
     <p align="justify">
- This paper introduces a novel approach for modeling continuous forward kinematic models of soft continuum robots by employing Augmented Neural ODE (ANODE), a cutting-edge family of deep neural network models. To the best of our knowledge, this is the first application of ANODE in modeling soft continuum robots. This formulation introduces auxiliary dimensions, allowing the system's states to evolve in the augmented space which provides a richer set of dynamics that the model can learn, increasing the flexibility and accuracy of the model. Our methodology achieves exceptional sample efficiency, training the continuous forward kinematic model using only 25 scattered data points.
- Additionally, we design and implement a fully parallel Model Predictive Path Integral (MPPI)-based controller running on a GPU, which efficiently manages a non-convex objective function. Through a set of experiments, we showed that the proposed framework (ANODE+MPPI) significantly outperforms state-of-the-art learning based methods such as FNN and RNN in \mbox{unseen-before} scenarios and marginally outperforms them in seen-before scenarios.
+    Robots operating in human-centric environments require the integration of visual grounding and grasping capabilities to effectively manipulate objects based on user instructions. This work focuses on the task of referring grasp synthesis, which predicts a grasp pose for an object referred through natural language in cluttered scenes. Existing approaches often employ multi-stage pipelines that first segment the referred object and then propose a suitable grasp, and are evaluated in simple datasets or simulators that do not capture the complexity of natural indoor scenes. To address these limitations, we develop a challenging benchmark based on cluttered indoor scenes from OCID dataset, for which we generate referring expressions and connect them with 4-DoF grasp poses. Further, we propose a novel end-to-end model (CROG) that leverages the visual grounding capabilities of CLIP to learn grasp synthesis directly from image-text pairs. Our results show that vanilla integration of CLIP with pretrained models transfers poorly in our challenging benchmark, while CROG achieves significant improvements both in terms of grounding and grasping. 
+    Extensive robot experiments in both simulation and hardware demonstrate the effectiveness of our approach in challenging interactive object grasping scenarios that include clutter.
+</p>
+<br> <a href="https://youtu.be/6tYS-5tkoQg"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://openreview.net/pdf?id=j2AQ-WJ_ze"> <b>Paper</b></a>  
+
+ </td>
+  </tr>
+
+
+<tr>
+    <td style = ""><img src="./imgs/corl_node.png"/></td>
+    <td> <b> + A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators:</b> <br>
+    <p align="justify">
+     Robots operating in human-centric environments require the integration of visual grounding and grasping capabilities to effectively manipulate objects based on user instructions. This work focuses on the task of referring grasp synthesis, which predicts a grasp pose for an object referred through natural language in cluttered scenes. Existing approaches often employ multi-stage pipelines that first segment the referred object and then propose a suitable grasp, and are evaluated in simple datasets or simulators that do not capture the complexity of natural indoor scenes. To address these limitations, we develop a challenging benchmark based on cluttered indoor scenes from OCID dataset, for which we generate referring expressions and connect them with 4-DoF grasp poses. Further, we propose a novel end-to-end model (CROG) that leverages the visual grounding capabilities of CLIP to learn grasp synthesis directly from image-text pairs. Our results show that vanilla integration of CLIP with pretrained models transfers poorly in our challenging benchmark, while CROG achieves significant improvements both in terms of grounding and grasping. 
+    Extensive robot experiments in both simulation and hardware demonstrate the effectiveness of our approach in challenging interactive object grasping scenarios that include clutter.
 </p>
 <br> <a href="https://youtu.be/6tYS-5tkoQg"> <b>Video</b></a> &emsp; &emsp;
  <a href="https://openreview.net/pdf?id=PalhNjBJqv"> <b>Paper</b></a>  &emsp;
