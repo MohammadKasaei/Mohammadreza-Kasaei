@@ -105,7 +105,8 @@ th, td {
     Extensive robot experiments in both simulation and hardware demonstrate the effectiveness of our approach in challenging interactive object grasping scenarios that include clutter.
 </p>
 <br> <a href="https://youtu.be/6tYS-5tkoQg"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://openreview.net/pdf?id=j2AQ-WJ_ze"> <b>Paper</b></a>  
+ <a href="https://openreview.net/pdf?id=j2AQ-WJ_ze"> <b>Paper</b></a>  &emsp; &emsp;
+ <a href="https://github.com/gtziafas/OCID-VLG#ocid-vlg-a-vision-language-grasping-dataset-for-cluttered-indoor-scenes"> <b>Code</b></a>  
 
  </td>
   </tr>
