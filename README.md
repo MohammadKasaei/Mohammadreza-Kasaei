@@ -120,7 +120,7 @@ th, td {
  Additionally, we design and implement a fully parallel Model Predictive Path Integral~(MPPI)-based controller running on a GPU, which efficiently manages a non-convex objective function. Through a set of experiments, we showed that the proposed framework (ANODE+MPPI) significantly outperforms state-of-the-art learning based methods such as FNN and RNN in unseen-before scenarios and marginally outperforms them in seen-before scenarios.
 </p>
 <br> <a href="https://youtu.be/6tYS-5tkoQg"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://openreview.net/pdf?id=PalhNjBJqv"> <b>Paper</b></a>  &emsp;
+ <a href="https://openreview.net/pdf?id=PalhNjBJqv"> <b>Paper</b></a>  &emsp;&emsp;
  <a href="https://github.com/MohammadKasaei/SoftRobotSimulator"> <b>Code</b></a> 
  </td>
   </tr>
