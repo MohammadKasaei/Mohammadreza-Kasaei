@@ -214,7 +214,10 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 </p>
 <br> 
 <a href="https://youtu.be/riBXMgrupUw"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/pdf/2302.07824.pdf"> <b>Paper</b></a> 
+ <a href="https://arxiv.org/pdf/2302.07824.pdf"> <b>Paper</b></a> &emsp; &emsp;
+ <a href="https://github.com/HilbertXu/Instance-wise-grasp-synthesis"> <b>Code</b></a> 
+ 
+
  </td>
   </tr>
 
