@@ -99,13 +99,13 @@ th, td {
 
 <tr>
     <td style = ""><img src="./imgs/lang.png"/></td>
-    <td> <b> + Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter:</b> <br>
+    <td> <b> + Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter :</b> <br>
     <p align="justify">
     Robots operating in human-centric environments require the integration of visual grounding and grasping capabilities to effectively manipulate objects based on user instructions. This work focuses on the task of referring grasp synthesis, which predicts a grasp pose for an object referred through natural language in cluttered scenes. Existing approaches often employ multi-stage pipelines that first segment the referred object and then propose a suitable grasp, and are evaluated in simple datasets or simulators that do not capture the complexity of natural indoor scenes. To address these limitations, we develop a challenging benchmark based on cluttered indoor scenes from OCID dataset, for which we generate referring expressions and connect them with 4-DoF grasp poses. Further, we propose a novel end-to-end model (CROG) that leverages the visual grounding capabilities of CLIP to learn grasp synthesis directly from image-text pairs. Our results show that vanilla integration of CLIP with pretrained models transfers poorly in our challenging benchmark, while CROG achieves significant improvements both in terms of grounding and grasping. 
     Extensive robot experiments in both simulation and hardware demonstrate the effectiveness of our approach in challenging interactive object grasping scenarios that include clutter.
 </p>
 <br> <a href="https://youtu.be/6tYS-5tkoQg"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://openreview.net/pdf?id=j2AQ-WJ_ze"> <b>Paper</b></a>  &emsp; &emsp;
+ <a href="https://openreview.net/pdf?id=j2AQ-WJ_ze"> <b>Paper (CoRL)</b></a>  &emsp; &emsp;
  <a href="https://github.com/gtziafas/OCID-VLG#ocid-vlg-a-vision-language-grasping-dataset-for-cluttered-indoor-scenes"> <b>Code</b></a>  
 
  </td>
@@ -120,7 +120,7 @@ th, td {
  Additionally, we design and implement a fully parallel Model Predictive Path Integral~(MPPI)-based controller running on a GPU, which efficiently manages a non-convex objective function. Through a set of experiments, we showed that the proposed framework (ANODE+MPPI) significantly outperforms state-of-the-art learning based methods such as FNN and RNN in unseen-before scenarios and marginally outperforms them in seen-before scenarios.
 </p>
 <br> <a href="https://youtu.be/6tYS-5tkoQg"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://openreview.net/pdf?id=PalhNjBJqv"> <b>Paper</b></a>  &emsp;&emsp;
+ <a href="https://openreview.net/pdf?id=PalhNjBJqv"> <b>Paper (CoRL)</b></a>  &emsp;&emsp;
  <a href="https://github.com/MohammadKasaei/SoftRobotSimulator"> <b>Code</b></a> 
  </td>
   </tr>
@@ -157,7 +157,7 @@ The work introduces a novel framework, named TiV-ODE, which enables the generati
 In this work, we propose a multi-view deep learning approach to handle robust object grasping in human-centric domains. In particular, our approach takes a point cloud of an arbitrary object as an input, and then, generates orthographic views of the given object. The obtained views are finally used to estimate pixel-wise grasp synthesis for each object. We train the model end-to-end using a synthetic object grasp dataset and test it on both simulation and real-world data without any further fine-tuning.
 </p>
 <br> <a href="https://youtu.be/r7Ra8BJsAY4"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/pdf/2103.10997.pdf"> <b>Paper</b></a> 
+ <a href="https://arxiv.org/pdf/2103.10997.pdf"> <b>Paper (RAS)</b></a> 
  </td>
   </tr>
 
@@ -170,7 +170,7 @@ In this work, we propose a multi-view deep learning approach to handle robust ob
 objects with obstacle avoidance. Such a throwing skill not only increases the physical reachability of a robot arm but also improves the execution time.
 </p>
 <br> <a href="https://youtu.be/VmIFF__c_84"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper</b></a> 
+ <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper (ICRA)</b></a> 
  </td>
   </tr>
 
@@ -191,7 +191,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
     <p align="justify"> This work proposed a novel data-efficient and non-parametric approach to develop a continuous model using a small dataset of real robot demonstrations (only 25 points). To the best of our knowledge, the proposed approach is the most sample-efficient method for soft continuum robot. Furthermore, we employed this model to develop a  controller to track arbitrary trajectories in the feasible kinematic space. 
 </p>
 <br> <a href="https://youtu.be/_y7LvG-JS4M"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://ieeexplore.ieee.org/document/10161275"> <b>Paper</b></a> 
+ <a href="https://ieeexplore.ieee.org/document/10161275"> <b>Paper (ICRA)</b></a> 
  </td>
   </tr>
 
@@ -202,7 +202,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
     <p align="justify"> This work developed a kernel-based residual learning framework for quadrupedal robotic locomotion. Initially, a kernel neural network is trained with data collected from an MPC controller. Alongside a frozen kernel network, a residual controller network is trained via reinforcement learning to acquire generalized locomotion skills and resilience against external perturbations. With this proposed framework, a robust quadrupedal locomotion controller is learned with high sample efficiency and controllability, providing omnidirectional locomotion at continuous velocities. Its versatility and robustness are validated on unseen terrains that the expert MPC controller fails to traverse. Furthermore, the learned kernel can produce a range of functional locomotion behaviors and can generalize to unseen gaits.
 </p>
 <br> <a href="https://youtu.be/MK_s75UpDAg"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/pdf/2302.07343.pdf"> <b>Paper</b></a> 
+ <a href="https://arxiv.org/pdf/2302.07343.pdf"> <b>Paper (ICRA)</b></a> 
  </td>
   </tr>
 
@@ -214,7 +214,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 </p>
 <br> 
 <a href="https://youtu.be/riBXMgrupUw"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/pdf/2302.07824.pdf"> <b>Paper</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/pdf/2302.07824.pdf"> <b>Paper (ICRA)</b></a> &emsp; &emsp;
  <a href="https://github.com/HilbertXu/Instance-wise-grasp-synthesis"> <b>Code</b></a> 
  
 
@@ -240,7 +240,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
     <p align="justify">
     This work aims to combine machine learning and control approaches for legged robots, and developed a hybrid framework to achieve new capabilities of balancing against external perturbations. The framework embeds a kernel which is a fully parametric closed-loop gait generator based on analytical control. On top of that, a neural network with symmetric partial data augmentation learns to automatically adjust the parameters for the gait kernel and to generate compensatory actions for all joints as the residual dynamics, thus significantly augmenting the stability under unexpected perturbations. </p>
 <br> <a href="https://youtu.be/sdcREkRHk-Q"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/pdf/2011.13798.pdf"> <b>Paper</b></a> 
+ <a href="https://arxiv.org/pdf/2011.13798.pdf"> <b>Paper (Frontiers Robotics)</b></a> 
  </td>
  
   </tr>
