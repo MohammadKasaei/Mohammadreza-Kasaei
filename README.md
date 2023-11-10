@@ -37,6 +37,11 @@
 </table>
 
 # Latest News
+
+ - **September 2023:** We proposed <span style="color:#006600"> <b> NODE-IL: A Data-Efficient Imitation Learning Framework for Long-Horizon Multi-Skills Robot Manipulation </b></span>. The paper is under review for ICRA 2024.
+
+ - **September 2023:** We proposed a framework for <span style="color:#006600"> <b> Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios </b></span>. The paper is under review for ICRA 2024.
+
  - **August 2023:** Our paper entitled <span style="color:#006600"> <b> A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper is available online [Here](https://openreview.net/pdf?id=PalhNjBJqv).
  
  - **August 2023:**  Our paper entitled <span style="color:#006600"> <b>Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper is available online [Here](https://openreview.net/pdf?id=j2AQ-WJ_ze).
