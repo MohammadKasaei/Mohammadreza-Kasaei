@@ -17,7 +17,8 @@
 
 <table style="border:hidden;cellspacing=0; cellpadding=0;">
   <tr>
-    <td width = "33%"><img src="./imgs/Simul.gif"/></td>
+    <!-- <td width = "33%"><img src="./imgs/Simul.gif"/></td> -->
+    <td width = "33%"><img src="./imgs/YuMi.gif"/></td>
     <td width = "33%"><img src="./imgs/cluttered.gif"/></td>
     <td width = "33%"><img src="./imgs/Nextage.gif"/></td>
   </tr>
