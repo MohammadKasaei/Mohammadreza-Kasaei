@@ -37,6 +37,8 @@
 </table>
 
 # Latest News
+- **October 2023:** We successfully integrated our <span style="color:#006600"> <b> In-box Grasp Pose Prediction pipline </b></span> on ABB Yumi Mobile manipulator. The video is available online [Here](https://youtu.be/JD7b1nMzVdY) and the code is available online [Here](https://github.com/MohammadKasaei/Harmony_InBoxGrasping_ROS2.git).
+
 
  - **September 2023:** We proposed <span style="color:#006600"> <b> NODE-IL: A Data-Efficient Imitation Learning Framework for Long-Horizon Multi-Skills Robot Manipulation </b></span>. The paper is under review for ICRA 2024.
 
