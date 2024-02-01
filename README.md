@@ -150,17 +150,6 @@ This work presents a novel extension to dual-arm tele-cooperation, leveraging th
   </tr>
 
 <tr>
-    <td style = ""><img src="./imgs/tactip_grasp.gif"/></td>
-    <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
-    <p align="justify">
-This work develops a data-efficient learning from demonstration framework which exploits the use of rich tactile sensing and achieves fine dexterous bimanual manipulation. Specifically, we formulated a convolutional autoencoder network that can effectively extract and encode high-dimensional tactile information. Further, we developed a behaviour cloning network that can learn human-like sensorimotor skills demonstrated directly on the robot hardware in the task space by fusing both proprioceptive and tactile feedback. Our comparison study with the baseline method revealed the effectiveness of the contact information, which enabled successful extraction and replication of the demonstrated motor skills.
-</p>
-<br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/pdf/2307.04619.pdf"> <b>Paper (Under review)</b></a> 
- </td>
-  </tr>
-
-<tr>
     <td style = ""><img src="./imgs/TiV-ODE.gif"/></td>
     <td> <b> + TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs:</b> <br>
     <p align="justify">
@@ -193,6 +182,18 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 </p>
 <br> <a href="https://youtu.be/VmIFF__c_84"> <b>Video</b></a> &emsp; &emsp;
  <a href="https://arxiv.org/pdf/2210.00609.pdf"> <b>Paper (ICRA)</b></a> 
+ </td>
+  </tr>
+
+
+<tr>
+    <td style = ""><img src="./imgs/tactip_grasp.gif"/></td>
+    <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
+    <p align="justify">
+This work develops a data-efficient learning from demonstration framework which exploits the use of rich tactile sensing and achieves fine dexterous bimanual manipulation. Specifically, we formulated a convolutional autoencoder network that can effectively extract and encode high-dimensional tactile information. Further, we developed a behaviour cloning network that can learn human-like sensorimotor skills demonstrated directly on the robot hardware in the task space by fusing both proprioceptive and tactile feedback. Our comparison study with the baseline method revealed the effectiveness of the contact information, which enabled successful extraction and replication of the demonstrated motor skills.
+</p>
+<br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/pdf/2307.04619.pdf"> <b>Paper (Under review)</b></a> 
  </td>
   </tr>
 
