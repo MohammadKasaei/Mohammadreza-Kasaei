@@ -37,25 +37,30 @@
 </table>
 
 # Latest News
+
+- **January 2024:** My research team has had three papers accepted for presentation at the 2024 International Conference on Robotics and Automation [(**ICRA 2024**)](https://www.icra2024.org/). 
+  
 - **October 2023:** I have successfully integrated my <span style="color:#006600"> <b> In-box Grasp Pose Prediction Pipline </b></span> on ABB Yumi Mobile manipulator for the [Harmony Project](https://harmony-eu.org/). The video is available online [Here](https://youtu.be/JD7b1nMzVdY) and the code is available online [Here](https://github.com/MohammadKasaei/Harmony_InBoxGrasping_ROS2.git).
 
 
- - **September 2023:** We proposed <span style="color:#006600"> <b> NODE-IL: A Data-Efficient Imitation Learning Framework for Long-Horizon Multi-Skills Robot Manipulation </b></span>. The paper is under review for ICRA 2024.
+- **September 2023:** We proposed <span style="color:#006600"> <b> TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs </b></span>. The paper has been accepted for presentation in [**ICRA 2024**](https://www.icra2024.org/) and is available online [Here](https://arxiv.org/pdf/2303.05323.pdf).
+  
+- **September 2023:** We proposed a framework for <span style="color:#006600"> <b> Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios </b></span>. The paper has been accepted for presentation in [**ICRA 2024**](https://www.icra2024.org/).
 
- - **September 2023:** We proposed a framework for <span style="color:#006600"> <b> Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios </b></span>. The paper is under review for ICRA 2024.
+- **September 2023:** We proposed <span style="color:#006600"> <b> Robust and Dexterous Dual-arm Tele-Cooperation using Adaptable Impedance Control </b></span>. The paper has been accepted for presentation in [**ICRA 2024**](https://www.icra2024.org/).
+
+ - **September 2023:** We proposed <span style="color:#006600"> <b> NODE-IL: A Data-Efficient Imitation Learning Framework for Long-Horizon Multi-Skills Robot Manipulation </b></span>. The paper is under review.
+
 
  - **August 2023:** Our paper entitled <span style="color:#006600"> <b> A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper is available online [Here](https://openreview.net/pdf?id=PalhNjBJqv).
  
  - **August 2023:**  Our paper entitled <span style="color:#006600"> <b>Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper is available online [Here](https://openreview.net/pdf?id=j2AQ-WJ_ze).
  
- 
-  
+   
   - **July 2023:** We proposed <span style="color:#006600"> <b> Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data</b></span>. The paper is available online [Here](https://arxiv.org/abs/2307.04619).
   
   - **June 2023:** Our poster, <span style="color:#006600"> <b> A Novel Extensible Flexible Arm for Robotic </b></span> got the best poster award in [Soft Growing Robots:](https://www.growing-robots.com/) From Search-and-Rescue to Intraluminal Interventions in [(**ICRA 2023**)](https://www.icra2023.org/).  
 
-  - **March 2023:** We proposed <span style="color:#006600"> <b> Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE </b></span>. The paper is available online [Here](https://arxiv.org/pdf/2303.05323.pdf).
-  
   - **March 2023:** Our paper entitled  <span style="color:#006600"> <b> Learning Hybrid Locomotion Skills -Learn to Exploit Residual Actions and Modulate Model-based Gait Control</b></span> got accepted to Frontiers Robotics and AI!
 
   - **February 2023:** Mohammadreza Kasaei gave a talk at IPAB workshop in the University of Edinburgh, UK entitled **Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator**.
@@ -146,13 +151,12 @@ This work develops a data-efficient learning from demonstration framework which 
 
 <tr>
     <td style = ""><img src="./imgs/TiV-ODE.gif"/></td>
-    <td> <b> + Controllable Video Generation by Learning the Underlying Dynamical System
-with Neural ODE:</b> <br>
+    <td> <b> + TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs:</b> <br>
     <p align="justify">
 The work introduces a novel framework, named TiV-ODE, which enables the generation of highly controllable videos using a static image and text caption. The framework relies on the Neural Ordinary Differential Equations (Neural ODEs) to represent complex underlying dynamical systems through a set of nonlinear ordinary differential equations. The proposed method generates videos that possess both the desired dynamics and content. The experimental results demonstrate the effectiveness of the approach in producing visually consistent and highly controllable videos while modeling dynamical systems. This work represents a significant advancement towards developing advanced models for generating controllable videos that can handle complex and dynamic scenes.
 </p>
 <!-- <br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp; -->
- <a href="https://arxiv.org/pdf/2303.05323.pdf"> <b>Paper (Under review)</b></a> 
+ <a href="https://arxiv.org/pdf/2303.05323.pdf"> <b>Paper (ICRA)</b></a> 
  </td>
   </tr>
 
