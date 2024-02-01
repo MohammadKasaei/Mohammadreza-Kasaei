@@ -139,6 +139,17 @@ th, td {
 
 
 <tr>
+    <td style = ""><img src="./imgs/bimanual.gif"/></td>
+    <td> <b> + Robust and Dexterous Dual-arm Tele-Cooperation using Adaptable Impedance Control:</b> <br>
+    <p align="justify">
+This work presents a novel extension to dual-arm tele-cooperation, leveraging the non-linear stiffness and passivity of Fractal Impedance Control (FIC) to adapt to diverse cooperative scenarios. Unlike traditional impedance controllers, our approach ensures stability without relying on energy tanks, as demonstrated in our prior research. In this work, we further extend the FIC framework to bimanual operations, allowing for stable and smooth switching between different dynamic tasks without gain tuning. We also introduce a telemanipulation architecture that offers higher transparency and dexterity, addressing the challenges of signal latency and low-bandwidth communication.
+</p>
+<br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/pdf/2307.04619.pdf"> <b>Paper (Under review)</b></a> 
+ </td>
+  </tr>
+
+<tr>
     <td style = ""><img src="./imgs/tactip_grasp.gif"/></td>
     <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
     <p align="justify">
