@@ -150,18 +150,6 @@ This work presents a novel extension to dual-arm tele-cooperation, leveraging th
   </tr>
 
 <tr>
-    <td style = ""><img src="./imgs/TiV-ODE.gif"/></td>
-    <td> <b> + TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs:</b> <br>
-    <p align="justify">
-The work introduces a novel framework, named TiV-ODE, which enables the generation of highly controllable videos using a static image and text caption. The framework relies on the Neural Ordinary Differential Equations (Neural ODEs) to represent complex underlying dynamical systems through a set of nonlinear ordinary differential equations. The proposed method generates videos that possess both the desired dynamics and content. The experimental results demonstrate the effectiveness of the approach in producing visually consistent and highly controllable videos while modeling dynamical systems. This work represents a significant advancement towards developing advanced models for generating controllable videos that can handle complex and dynamic scenes.
-</p>
-<!-- <br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp; -->
- <a href="https://arxiv.org/pdf/2303.05323.pdf"> <b>Paper (ICRA)</b></a> 
- </td>
-  </tr>
-
-
-<tr>
     <td style = ""><img src="./imgs/dual_arm_grasping.gif"/></td>
     <td> <b> + MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments:</b> <br>
     <p align="justify">
@@ -169,6 +157,18 @@ In this work, we propose a multi-view deep learning approach to handle robust ob
 </p>
 <br> <a href="https://youtu.be/r7Ra8BJsAY4"> <b>Video</b></a> &emsp; &emsp;
  <a href="https://arxiv.org/pdf/2103.10997.pdf"> <b>Paper (RAS)</b></a> 
+ </td>
+  </tr>
+
+
+<tr>
+    <td style = ""><img src="./imgs/TiV-ODE.gif"/></td>
+    <td> <b> + TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs:</b> <br>
+    <p align="justify">
+The work introduces a novel framework, named TiV-ODE, which enables the generation of highly controllable videos using a static image and text caption. The framework relies on the Neural Ordinary Differential Equations (Neural ODEs) to represent complex underlying dynamical systems through a set of nonlinear ordinary differential equations. The proposed method generates videos that possess both the desired dynamics and content. The experimental results demonstrate the effectiveness of the approach in producing visually consistent and highly controllable videos while modeling dynamical systems. This work represents a significant advancement towards developing advanced models for generating controllable videos that can handle complex and dynamic scenes.
+</p>
+<!-- <br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp; -->
+ <a href="https://arxiv.org/pdf/2303.05323.pdf"> <b>Paper (ICRA)</b></a> 
  </td>
   </tr>
 
