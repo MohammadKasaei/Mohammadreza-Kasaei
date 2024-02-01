@@ -38,7 +38,7 @@
 
 # Latest News
 
-- **January 2024:** My research team has had three papers accepted for presentation at the 2024 International Conference on Robotics and Automation [(**ICRA 2024**)](https://www.icra2024.org/). 
+- **January 2024:** My research team has had <span style="color:#006600"> <b> three papers accepted </b></span> for presentation at the 2024 International Conference on Robotics and Automation [(**ICRA 2024**)](https://www.icra2024.org/). 
   
 - **October 2023:** I have successfully integrated my <span style="color:#006600"> <b> In-box Grasp Pose Prediction Pipline </b></span> on ABB Yumi Mobile manipulator for the [Harmony Project](https://harmony-eu.org/). The video is available online [Here](https://youtu.be/JD7b1nMzVdY) and the code is available online [Here](https://github.com/MohammadKasaei/Harmony_InBoxGrasping_ROS2.git).
 
