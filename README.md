@@ -118,8 +118,7 @@ actions such as grasping and throwing, within the domain of
 robotic manipulation. We introduce an innovative approach
 to learning these synergies by leveraging model-free deep
 reinforcement learning. The robot’s workflow involves detecting the pose of the target object and the basket at each time step, predicting the optimal push configuration to isolate the target object, determining the appropriate grasp configuration, and inferring the necessary parameters for an accurate throw into the basket. This empowers robots to skillfully reconfigure cluttered scenarios through pushing, creating space for collision-free grasping actions. Simultaneously, we integrate throwing behavior, showcasing how this action significantly extends the robot’s 
-operational reach. Ensuring safety, we developed a simulation
-environment in Gazebo for robot training, applying the learned policy directly to our real robot. Notably, this work represents a pioneering effort to learn the synergy between pushing, grasping, and throwing actions. Extensive experimentation in both simulated and real-robot scenarios substantiates the effectiveness of our approach across diverse settings.
+operational reach. 
 </p>
 <br> <a href="https://youtu.be/q1l4BJVDbRw"> <b>Video</b></a> &emsp; &emsp;
  <a href="https://arxiv.org/pdf/2402.16045.pdf"> <b>Paper (ICRA)</b></a>  
