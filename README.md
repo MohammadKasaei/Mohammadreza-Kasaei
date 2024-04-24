@@ -37,7 +37,8 @@
 </table>
 
 # Latest News
-
+- **April 2024:** Our paper titled <span style="color:#006600"> <b> Simultaneous Multi-View Object Recognition and Grasping in Open-Ended Domains</b></span>  has been accepted for publication in the [**Journal of Intelligent & Robotic Systems**](https://link.springer.com/content/pdf/10.1007/s10846-024-02092-5.pdf)! 
+- 
 - **January 2024:** My research team has had <span style="color:#006600"> <b> three papers accepted </b></span> for presentation at the 2024 International Conference on Robotics and Automation [(**ICRA 2024**)](https://www.icra2024.org/). A big thank you to my students and collaborators!
   
 - **October 2023:** I have successfully integrated my <span style="color:#006600"> <b> In-box Grasp Pose Prediction Pipline </b></span> on ABB Yumi Mobile manipulator for the [Harmony Project](https://harmony-eu.org/). The video is available online [Here](https://youtu.be/JD7b1nMzVdY) and the code is available online [Here](https://github.com/MohammadKasaei/Harmony_InBoxGrasping_ROS2.git).
