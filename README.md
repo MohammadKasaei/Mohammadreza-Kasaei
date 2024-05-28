@@ -37,6 +37,10 @@
 </table>
 
 # Latest News
+
+- **May 2024:** Our poster titled <span style="color:#006600"> <b> A Novel Dual-Arm Adaptable Impedance Control for Human-Robot Tele-Cooperation</b></span>  got the best porster award at the [(**ICRA 2024**)](https://www.icra2024.org/) workshop on human-centric multilateral teleoperation augmentation! 
+
+
 - **April 2024:** Our paper titled <span style="color:#006600"> <b> Simultaneous Multi-View Object Recognition and Grasping in Open-Ended Domains</b></span>  has been accepted for publication in the [**Journal of Intelligent & Robotic Systems**](https://link.springer.com/content/pdf/10.1007/s10846-024-02092-5.pdf)! 
 
 - **January 2024:** My research team has had <span style="color:#006600"> <b> three papers accepted </b></span> for presentation at the 2024 International Conference on Robotics and Automation [(**ICRA 2024**)](https://www.icra2024.org/). A big thank you to my students and collaborators!
