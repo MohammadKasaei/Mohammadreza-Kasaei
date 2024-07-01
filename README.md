@@ -38,6 +38,8 @@
 
 # Latest News
 
+- **January 2024:** My research team has had <span style="color:#006600"> <b> two papers accepted </b></span> for presentation at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems  [(**IROS 2024**)](https://iros2024-abudhabi.org/). A big thank you to my students and collaborators!
+  
 - **May 2024:** Our poster titled <span style="color:#006600"> <b> A Novel Dual-Arm Adaptable Impedance Control for Human-Robot Tele-Cooperation</b></span>  got the best porster award at the [(**ICRA 2024**)](https://www.icra2024.org/) workshop on human-centric multilateral teleoperation augmentation! 
 
 
@@ -112,6 +114,31 @@ th, td {
     <th style="width:45%"></th>
     <th></th>
   </tr>
+
+<tr>
+    <td style = ""><img src="./imgs/tactip_grasp.gif"/></td>
+    <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
+    <p align="justify">
+This work develops a data-efficient learning from demonstration framework which exploits the use of rich tactile sensing and achieves fine dexterous bimanual manipulation. Specifically, we formulated a convolutional autoencoder network that can effectively extract and encode high-dimensional tactile information. Further, we developed a behaviour cloning network that can learn human-like sensorimotor skills demonstrated directly on the robot hardware in the task space by fusing both proprioceptive and tactile feedback. Our comparison study with the baseline method revealed the effectiveness of the contact information, which enabled successful extraction and replication of the demonstrated motor skills.
+</p>
+<br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/pdf/2307.04619.pdf"> <b>Paper (IROS)</b></a> 
+ </td>
+  </tr>
+
+
+<tr>
+    <td style = ""><img src="./imgs/NODE-IL.gif"/></td>
+    <td> <b> + Neural ODE-based Imitation Learning (NODE-IL): Data-Efficient Imitation Learning for Long-Horizon Multi-Skill Robot Manipulation:</b> <br>
+    <p align="justify">
+
+In robotics, acquiring new skills through Imitation Learning (IL) is crucial for handling diverse complex tasks. However, model-free IL faces data inefficiency and prolonged training time, whereas model-based methods struggle to obtain accurate models. To address these challenges, we developed Neural ODE-based Imitation Learning (NODE-IL), a novel model-based imitation learning framework that employs Neural Ordinary Differential Equations (Neural ODEs) for learning task dynamics and control policies. NODE-IL comprises (1)~Dynamic-NODE for learning the continuous differentiable task's transition dynamics model, and (2)~Control-NODE for learning a long-horizon control policy in an MPC fashion, which are trained holistically. Extensively evaluated on challenging manipulation tasks, NODE-IL demonstrates significant advantages in data efficiency, requiring less than 70 samples to achieve robust performance. It outperforms Behavioral Cloning from Observation~(BCO) and Gaussian Process Imitation Learning~(GP-IL) methods, achieving 70\% higher average success rate, and reducing translation errors for high-precision tasks, which demonstrates its robustness and accuracy, as an effective and efficient imitation learning approach for learning complex manipulation tasks.
+</p>
+<br> <a href=""> <b>Video</b></a> &emsp; &emsp;
+ <a href=""> <b>Paper (IROS)</b></a> 
+ </td>
+  </tr>
+
 
 
 <tr>
@@ -220,17 +247,6 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
  </td>
   </tr>
 
-
-<tr>
-    <td style = ""><img src="./imgs/tactip_grasp.gif"/></td>
-    <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
-    <p align="justify">
-This work develops a data-efficient learning from demonstration framework which exploits the use of rich tactile sensing and achieves fine dexterous bimanual manipulation. Specifically, we formulated a convolutional autoencoder network that can effectively extract and encode high-dimensional tactile information. Further, we developed a behaviour cloning network that can learn human-like sensorimotor skills demonstrated directly on the robot hardware in the task space by fusing both proprioceptive and tactile feedback. Our comparison study with the baseline method revealed the effectiveness of the contact information, which enabled successful extraction and replication of the demonstrated motor skills.
-</p>
-<br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://arxiv.org/pdf/2307.04619.pdf"> <b>Paper (Under review)</b></a> 
- </td>
-  </tr>
 
 
 <tr>
