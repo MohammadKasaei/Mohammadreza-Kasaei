@@ -148,7 +148,7 @@ In robotics, acquiring new skills through Imitation Learning (IL) is crucial for
     Most state-of-the-art approaches treat object recognition and grasping as two separate problems, even though both use visual input. Furthermore, the knowledge of the robot is fixed after the training phase. In such cases, if the robot encounters new object categories, it must be retrained to incorporate new information without catastrophic forgetting. To resolve this problem, we propose a deep learning architecture with an augmented memory capacity to handle open-ended object recognition and grasping simultaneously. In particular, our approach takes multi-views of an object as input and jointly estimates pixel-wise grasp configuration as well as a deep scale- and rotation-invariant representation as output. The obtained representation is then used for open-ended object recognition through a meta-active learning technique. We demonstrate the ability of our approach to grasp never-seen-before objects and to rapidly learn new object categories using very few examples on-site in both simulation and real-world settings. Our approach empowers a robot to acquire knowledge about new object categories using, on average, less than five instances per category and achieve 95% object recognition accuracy and above 91% grasp success rate on (highly) cluttered scenarios in both simulation and real-robot experiments. 
 </p>
 <br> <a href="https://youtu.be/n9SMpuEkOgk"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://link.springer.com/content/pdf/10.1007/s10846-024-02092-5.pdf"> <b>Paper</b></a>  
+ <a href="https://link.springer.com/content/pdf/10.1007/s10846-024-02092-5.pdf"> <b>Paper (JIRS)</b></a>  
 
  </td>
   </tr>
