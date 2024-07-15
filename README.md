@@ -39,6 +39,13 @@
 # Latest News
 
 - **June 2024:** My research team has had <span style="color:#006600"> <b> two papers accepted </b></span> for presentation at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems  [(**IROS 2024**)](https://iros2024-abudhabi.org/). A big thank you to my students and collaborators!
+ 
+- **June 2024:** Our paper titled <span style="color:#006600"> <b> Neural ODE-based Imitation Learning (NODE-IL): Data-Efficient
+Imitation Learning for Long-Horizon Multi-Skill Robot Manipulation</b></span> has been accepted for publication in the [**IROS2024**](https://iros2024-abudhabi.org)! 
+
+
+- **June 2024:** Our paper titled <span style="color:#006600"> <b> Learning Fine Pinch-Grasp Skills Using Tactile Sensing from A Few
+Real-world Demonstrations</b></span> has been accepted for publication in the [**IROS2024**](https://iros2024-abudhabi.org)! 
   
 - **May 2024:** Our poster titled <span style="color:#006600"> <b> A Novel Dual-Arm Adaptable Impedance Control for Human-Robot Tele-Cooperation</b></span>  got the best porster award at the [(**ICRA 2024**)](https://www.icra2024.org/) workshop on human-centric multilateral teleoperation augmentation! 
 
