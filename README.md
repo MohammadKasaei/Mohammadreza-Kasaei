@@ -38,6 +38,8 @@
 
 # Latest News
 
+- **August 2024:** My paper, <span style="color:#006600"> <b>  SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning,</b></span>  has been accepted for presentation at the 2024 Conference on Robot Learning [(**CoRL 2024**)](https://www.corl.org/). A big thank you to my students and collaborators!
+  
 - **June 2024:** My research team has had <span style="color:#006600"> <b> two papers accepted </b></span> for presentation at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems  [(**IROS 2024**)](https://iros2024-abudhabi.org/). A big thank you to my students and collaborators!
  
 - **June 2024:** Our paper titled <span style="color:#006600"> <b> Neural ODE-based Imitation Learning (NODE-IL): Data-Efficient
