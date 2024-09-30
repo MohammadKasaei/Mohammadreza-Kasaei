@@ -134,7 +134,7 @@ for multi-segment continuum manipulators. Existing continuum robot simulators of
 bridge this gap, we propose a robust and rapid mathematical model for continuum robots at the core of SoftManiSim, ensuring precise and adaptable simulations. The framework can integrate with various rigid-body robots, increasing its utility across different robotic platforms. 
 </p>
 <br> <a href="https://youtu.be/IYqYS4ZQx6k"> <b>Video</b></a> &emsp; &emsp;
- <a href="https://openreview.net/pdf?id=ovjxugn9Q2"> <b>Paper (CoRL2024)</b></a> &emsp; &emsp;
+ <a href="https://openreview.net/pdf?id=ovjxugn9Q2"> <b>Paper (CoRL)</b></a> &emsp; &emsp;
  <a href="https://github.com/MohammadKasaei/SoftManiSim?tab=readme-ov-file"> <b>Code</b></a> 
  </td>
   </tr>
