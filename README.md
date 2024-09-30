@@ -124,6 +124,21 @@ th, td {
     <th></th>
   </tr>
 
+
+<tr>
+    <td style = ""><img src="./imgs/softManiSim.gif"/></td>
+    <td> <b> + SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning:</b> <br>
+    <p align="justify">
+This paper introduces SoftManiSim, a novel simulation framework
+for multi-segment continuum manipulators. Existing continuum robot simulators often rely on simplifying assumptions, such as constant curvature bending or ignoring contact forces, to meet real-time simulation and training demands. To
+bridge this gap, we propose a robust and rapid mathematical model for continuum robots at the core of SoftManiSim, ensuring precise and adaptable simulations. The framework can integrate with various rigid-body robots, increasing its utility across different robotic platforms. 
+</p>
+<br> <a href="https://youtu.be/IYqYS4ZQx6k"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://openreview.net/pdf?id=ovjxugn9Q2"> <b>Paper (CoRL2024)</b></a> &emsp; &emsp;
+ <a href="https://github.com/MohammadKasaei/SoftManiSim?tab=readme-ov-file"> <b>Code</b></a> 
+ </td>
+  </tr>
+
 <tr>
     <td style = ""><img src="./imgs/tactip_grasp.gif"/></td>
     <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
