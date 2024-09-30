@@ -129,7 +129,7 @@ th, td {
     <td style = ""><img src="./imgs/softManiSim.gif"/></td>
     <td> <b> + SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning:</b> <br>
     <p align="justify">
-This paper introduces SoftManiSim, a novel simulation framework
+This work introduces SoftManiSim, a novel simulation framework
 for multi-segment continuum manipulators. Existing continuum robot simulators often rely on simplifying assumptions, such as constant curvature bending or ignoring contact forces, to meet real-time simulation and training demands. To
 bridge this gap, we propose a robust and rapid mathematical model for continuum robots at the core of SoftManiSim, ensuring precise and adaptable simulations. The framework can integrate with various rigid-body robots, increasing its utility across different robotic platforms. 
 </p>
