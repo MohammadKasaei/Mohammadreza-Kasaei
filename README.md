@@ -253,7 +253,7 @@ In this work, we propose a multi-view deep learning approach to handle robust ob
     <p align="justify">
 The work introduces a novel framework, named TiV-ODE, which enables the generation of highly controllable videos using a static image and text caption. The framework relies on the Neural Ordinary Differential Equations (Neural ODEs) to represent complex underlying dynamical systems through a set of nonlinear ordinary differential equations. The proposed method generates videos that possess both the desired dynamics and content. The experimental results demonstrate the effectiveness of the approach in producing visually consistent and highly controllable videos while modeling dynamical systems. This work represents a significant advancement towards developing advanced models for generating controllable videos that can handle complex and dynamic scenes.
 </p>
-<!-- <br> <a href="https://youtu.be/4Pg29bUBKqs"> <b>Video</b></a> &emsp; &emsp; -->
+<br> <a href="https://www.youtube.com/watch?v=2nQKKcgLZ28"> <b>Video</b></a> &emsp; &emsp;
  <a href="https://arxiv.org/pdf/2303.05323.pdf"> <b>Paper (ICRA)</b></a> 
  </td>
   </tr>
