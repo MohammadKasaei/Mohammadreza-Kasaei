@@ -58,7 +58,7 @@ Real-world Demonstrations</b></span> has been accepted for publication in the [*
 - **January 2024:** My research team has had <span style="color:#006600"> <b> three papers accepted </b></span> for presentation at the 2024 International Conference on Robotics and Automation [(**ICRA 2024**)](https://www.icra2024.org/). A big thank you to my students and collaborators!
   
 - **October 2023:** I have successfully integrated my <span style="color:#006600"> <b> In-box Grasp Pose Prediction Pipline </b></span> on ABB Yumi Mobile manipulator for the [Harmony Project](https://harmony-eu.org/). The video is available online [Here](https://youtu.be/JD7b1nMzVdY) and the code is available online [Here](https://github.com/MohammadKasaei/Harmony_InBoxGrasping_ROS2.git).
-
+<!-- 
 
 - **September 2023:** We proposed <span style="color:#006600"> <b> TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs </b></span>. The paper has been accepted for presentation in [**ICRA 2024**](https://www.icra2024.org/) and is available online [Here](https://arxiv.org/pdf/2303.05323.pdf).
   
@@ -71,7 +71,7 @@ Real-world Demonstrations</b></span> has been accepted for publication in the [*
 
  - **August 2023:** Our paper entitled <span style="color:#006600"> <b> A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper is available online [Here](https://openreview.net/pdf?id=PalhNjBJqv).
  
- - **August 2023:**  Our paper entitled <span style="color:#006600"> <b>Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper is available online [Here](https://openreview.net/pdf?id=j2AQ-WJ_ze).
+ - **August 2023:**  Our paper entitled <span style="color:#006600"> <b>Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter </b></span> got accepted for presentation at [**(CoRL 2023)**](https://www.corl2023.org/). The paper is available online [Here](https://openreview.net/pdf?id=j2AQ-WJ_ze). -->
  
 <!--    
   - **July 2023:** We proposed <span style="color:#006600"> <b> Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data</b></span>. The paper is available online [Here](https://arxiv.org/abs/2307.04619).
