@@ -15,10 +15,9 @@
 <br />
 
 # Recent Works
-
+<!-- 
 <table style="border:hidden;cellspacing=0; cellpadding=0;">
   <tr>
-    <!-- <td width = "33%"><img src="./imgs/Simul.gif"/></td> -->
     <td width = "33%"><img src="./imgs/YuMi.gif"/></td>
     <td width = "33%"><img src="./imgs/cluttered.gif"/></td>
     <td width = "33%"><img src="./imgs/Nextage.gif"/></td>
@@ -29,12 +28,65 @@
     <td width = "33%"><img src="./imgs/A1.gif"/></td>
   </tr>
   <tr>
-    <!-- <td width = "33%"><img src="./imgs/softRobot.gif"/></td> -->
     <td width = "33%"><img src="./imgs/tactip_grasp.gif"/></td>
     <td width = "33%"><img src="./imgs/softRobot22.gif"/></td>
     <td width = "33%"><img src="./imgs/throwing.gif"/></td>    
   </tr>
   
+</table> -->
+
+<table style="border:hidden;cellspacing=0; cellpadding=0;">
+  <tr>
+    <td width="33%">
+      <a href="https://youtu.be/JD7b1nMzVdY" target="_blank">
+        <img src="./imgs/YuMi.gif" alt="YuMi Example">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://youtu.be/riBXMgrupUw?t=140" target="_blank">
+        <img src="./imgs/cluttered.gif" alt="Cluttered Example">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://www.youtube.com/watch?v=NextageExample" target="_blank">
+        <img src="./imgs/Nextage.gif" alt="Nextage Example">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <a href="https://youtu.be/t7GORTRGWHI" target="_blank">
+        <img src="./imgs/humanoid.gif" alt="Humanoid Example">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://youtu.be/hifFdgeuDIs" target="_blank">
+        <img src="./imgs/Talos.gif" alt="Talos Example">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://youtu.be/bUZJadWCRXU?t=123" target="_blank">
+        <img src="./imgs/A1.gif" alt="A1 Example">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <a href="https://youtu.be/4Pg29bUBKqs?t=90" target="_blank">
+        <img src="./imgs/tactip_grasp.gif" alt="Tactip Grasp Example">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://youtu.be/_y7LvG-JS4M?t=146" target="_blank">
+        <img src="./imgs/softRobot22.gif" alt="Soft Robot 22 Example">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://youtu.be/q1l4BJVDbRw?t=93" target="_blank">
+        <img src="./imgs/throwing.gif" alt="Throwing Example">
+      </a>
+    </td>
+  </tr>
 </table>
 
 # Latest News
