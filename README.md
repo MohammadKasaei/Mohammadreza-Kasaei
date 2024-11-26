@@ -180,7 +180,7 @@ th, td {
 
 <tr>
     <td style = ""><img src="./imgs/softManiSim.gif"/></td>
-    <td> <b> + SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning:</b> <br>
+    <td> <b> + [CoRL24] SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning:</b> <br>
     <p align="justify">
 This work introduces SoftManiSim, a novel simulation framework
 for multi-segment continuum manipulators. Existing continuum robot simulators often rely on simplifying assumptions, such as constant curvature bending or ignoring contact forces, to meet real-time simulation and training demands. To
@@ -194,7 +194,7 @@ bridge this gap, we propose a robust and rapid mathematical model for continuum 
 
 <tr>
     <td style = ""><img src="./imgs/tactip_grasp.gif"/></td>
-    <td> <b> + Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
+    <td> <b> + [IROS24] Learning Fine Pinch-Grasp Skills using Tactile Sensing from Real Demonstration Data:</b> <br>
     <p align="justify">
 This work develops a data-efficient learning from demonstration framework which exploits the use of rich tactile sensing and achieves fine dexterous bimanual manipulation. Specifically, we formulated a convolutional autoencoder network that can effectively extract and encode high-dimensional tactile information. Further, we developed a behaviour cloning network that can learn human-like sensorimotor skills demonstrated directly on the robot hardware in the task space by fusing both proprioceptive and tactile feedback. Our comparison study with the baseline method revealed the effectiveness of the contact information, which enabled successful extraction and replication of the demonstrated motor skills.
 </p>
@@ -206,7 +206,7 @@ This work develops a data-efficient learning from demonstration framework which 
 
 <tr>
     <td style = ""><img src="./imgs/NODE-IL.gif"/></td>
-    <td> <b> + Neural ODE-based Imitation Learning (NODE-IL): Data-Efficient Imitation Learning for Long-Horizon Multi-Skill Robot Manipulation:</b> <br>
+    <td> <b> + [IROS24] Neural ODE-based Imitation Learning (NODE-IL): Data-Efficient Imitation Learning for Long-Horizon Multi-Skill Robot Manipulation:</b> <br>
     <p align="justify">
 
 In robotics, acquiring new skills through Imitation Learning (IL) is crucial for handling diverse complex tasks. However, model-free IL faces data inefficiency and prolonged training time, whereas model-based methods struggle to obtain accurate models. To address these challenges, we developed Neural ODE-based Imitation Learning (NODE-IL), a novel model-based imitation learning framework that employs Neural Ordinary Differential Equations (Neural ODEs) for learning task dynamics and control policies. NODE-IL comprises (1) Dynamic-NODE for learning the continuous differentiable task's transition dynamics model, and (2) Control-NODE for learning a long-horizon control policy in an MPC fashion, which are trained holistically. Extensively evaluated on challenging manipulation tasks, NODE-IL demonstrates significant advantages in data efficiency, requiring less than 70 samples to achieve robust performance. It outperforms Behavioral Cloning from Observation (BCO) and Gaussian Process Imitation Learning (GP-IL) methods, achieving 70\% higher average success rate, and reducing translation errors for high-precision tasks, which demonstrates its robustness and accuracy, as an effective and efficient imitation learning approach for learning complex manipulation tasks.
@@ -220,7 +220,7 @@ In robotics, acquiring new skills through Imitation Learning (IL) is crucial for
 
 <tr>
     <td style = ""><img src="./imgs/jint.png"/></td>
-    <td> <b> + Simultaneous Multi-View Object Recognition and Grasping in Open-Ended Domains: </b> <br>
+    <td> <b> + [JIRS] Simultaneous Multi-View Object Recognition and Grasping in Open-Ended Domains: </b> <br>
     <p align="justify">
     Most state-of-the-art approaches treat object recognition and grasping as two separate problems, even though both use visual input. Furthermore, the knowledge of the robot is fixed after the training phase. In such cases, if the robot encounters new object categories, it must be retrained to incorporate new information without catastrophic forgetting. To resolve this problem, we propose a deep learning architecture with an augmented memory capacity to handle open-ended object recognition and grasping simultaneously. In particular, our approach takes multi-views of an object as input and jointly estimates pixel-wise grasp configuration as well as a deep scale- and rotation-invariant representation as output. The obtained representation is then used for open-ended object recognition through a meta-active learning technique. We demonstrate the ability of our approach to grasp never-seen-before objects and to rapidly learn new object categories using very few examples on-site in both simulation and real-world settings. Our approach empowers a robot to acquire knowledge about new object categories using, on average, less than five instances per category and achieve 95% object recognition accuracy and above 91% grasp success rate on (highly) cluttered scenarios in both simulation and real-robot experiments. 
 </p>
@@ -233,7 +233,7 @@ In robotics, acquiring new skills through Imitation Learning (IL) is crucial for
 
 <tr>
     <td style = ""><img src="./imgs/push_grasp.gif"/></td>
-    <td> <b> + Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios: </b> <br>
+    <td> <b> + [ICRA24] Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios: </b> <br>
     <p align="justify">
     In this work, we delve into the intricate synergy among non-prehensile actions like pushing, and prehensile 
 actions such as grasping and throwing, within the domain of
@@ -251,7 +251,7 @@ operational reach.
 
 <tr>
     <td style = ""><img src="./imgs/lang.png"/></td>
-    <td> <b> + Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter :</b> <br>
+    <td> <b> + [CoRL23] Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter :</b> <br>
     <p align="justify">
     Robots operating in human-centric environments require the integration of visual grounding and grasping capabilities to effectively manipulate objects based on user instructions. This work focuses on the task of referring grasp synthesis, which predicts a grasp pose for an object referred through natural language in cluttered scenes. Existing approaches often employ multi-stage pipelines that first segment the referred object and then propose a suitable grasp, and are evaluated in simple datasets or simulators that do not capture the complexity of natural indoor scenes. To address these limitations, we develop a challenging benchmark based on cluttered indoor scenes from OCID dataset, for which we generate referring expressions and connect them with 4-DoF grasp poses. Further, we propose a novel end-to-end model (CROG) that leverages the visual grounding capabilities of CLIP to learn grasp synthesis directly from image-text pairs. Our results show that vanilla integration of CLIP with pretrained models transfers poorly in our challenging benchmark, while CROG achieves significant improvements both in terms of grounding and grasping. 
     Extensive robot experiments in both simulation and hardware demonstrate the effectiveness of our approach in challenging interactive object grasping scenarios that include clutter.
@@ -266,7 +266,7 @@ operational reach.
 
 <tr>
     <td style = ""><img src="./imgs/corl.gif"/></td>
-    <td> <b> + A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators:</b> <br>
+    <td> <b> + [CoRL23] A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators:</b> <br>
     <p align="justify">
     This work introduces a novel approach for modeling continuous forward kinematic models of soft continuum robots by employing Augmented Neural ODE (ANODE), a cutting-edge family of deep neural network models. To the best of our knowledge, this is the first application of ANODE in modeling soft continuum robots. This formulation introduces auxiliary dimensions, allowing the system's states to evolve in the augmented space which provides a richer set of dynamics that the model can learn, increasing the flexibility and accuracy of the model. Our methodology achieves exceptional sample efficiency, training the continuous forward kinematic model using only 25 scattered data points.  Additionally, we design and implement a fully parallel Model Predictive Path Integral~(MPPI)-based controller running on a GPU, which efficiently manages a non-convex objective function. Through a set of experiments, we showed that the proposed framework (ANODE+MPPI) significantly outperforms state-of-the-art learning based methods such as FNN and RNN in unseen-before scenarios and marginally outperforms them in seen-before scenarios.
 </p>
@@ -279,7 +279,7 @@ operational reach.
 
 <tr>
     <td style = ""><img src="./imgs/bimanual.gif"/></td>
-    <td> <b> + Robust and Dexterous Dual-arm Tele-Cooperation using Adaptable Impedance Control:</b> <br>
+    <td> <b> + [ICRA24] Robust and Dexterous Dual-arm Tele-Cooperation using Adaptable Impedance Control:</b> <br>
     <p align="justify">
 This work presents a novel extension to dual-arm tele-cooperation, leveraging the non-linear stiffness and passivity of Fractal Impedance Control (FIC) to adapt to diverse cooperative scenarios. Unlike traditional impedance controllers, our approach ensures stability without relying on energy tanks, as demonstrated in our prior research. In this work, we further extend the FIC framework to bimanual operations, allowing for stable and smooth switching between different dynamic tasks without gain tuning. We also introduce a telemanipulation architecture that offers higher transparency and dexterity, addressing the challenges of signal latency and low-bandwidth communication.
 </p>
@@ -290,7 +290,7 @@ This work presents a novel extension to dual-arm tele-cooperation, leveraging th
 
 <tr>
     <td style = ""><img src="./imgs/dual_arm_grasping.gif"/></td>
-    <td> <b> + MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments:</b> <br>
+    <td> <b> + [RAS] MVGrasp: Real-Time Multi-View 3D Object Grasping in Highly Cluttered Environments:</b> <br>
     <p align="justify">
 In this work, we propose a multi-view deep learning approach to handle robust object grasping in human-centric domains. In particular, our approach takes a point cloud of an arbitrary object as an input, and then, generates orthographic views of the given object. The obtained views are finally used to estimate pixel-wise grasp synthesis for each object. We train the model end-to-end using a synthetic object grasp dataset and test it on both simulation and real-world data without any further fine-tuning.
 </p>
@@ -302,7 +302,7 @@ In this work, we propose a multi-view deep learning approach to handle robust ob
 
 <tr>
     <td style = ""><img src="./imgs/TiV-ODE.gif"/></td>
-    <td> <b> + TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs:</b> <br>
+    <td> <b> + [ICRA23] TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs:</b> <br>
     <p align="justify">
 The work introduces a novel framework, named TiV-ODE, which enables the generation of highly controllable videos using a static image and text caption. The framework relies on the Neural Ordinary Differential Equations (Neural ODEs) to represent complex underlying dynamical systems through a set of nonlinear ordinary differential equations. The proposed method generates videos that possess both the desired dynamics and content. The experimental results demonstrate the effectiveness of the approach in producing visually consistent and highly controllable videos while modeling dynamical systems. This work represents a significant advancement towards developing advanced models for generating controllable videos that can handle complex and dynamic scenes.
 </p>
@@ -314,7 +314,7 @@ The work introduces a novel framework, named TiV-ODE, which enables the generati
 
 <tr>
     <td style = ""><img src="./imgs/throwing_objects.gif"/></td>
-    <td> <b> + Throwing Objects into A Moving Basket While Avoiding Obstacles:</b> <br>
+    <td> <b> + [ICRA23] Throwing Objects into A Moving Basket While Avoiding Obstacles:</b> <br>
     <p align="justify">
  In this work, we tackle object throwing problem through a deep reinforcement learning approach that enables robots to precisely throw objects into moving baskets while there are obstacles obstructing the path. To the best of our knowledge, we are the first group that addresses throwing
 objects with obstacle avoidance. Such a throwing skill not only increases the physical reachability of a robot arm but also improves the execution time.
@@ -338,7 +338,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 
 <tr>
     <td style = ""><img src="./imgs/nodeSoftRobot.png"/></td>
-    <td> <b> + Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator:</b> <br>
+    <td> <b> + [ICRA23] Data-efficient Non-parametric Modelling and Control of an Extensible Soft Manipulator:</b> <br>
     <p align="justify"> This work proposed a novel data-efficient and non-parametric approach to develop a continuous model using a small dataset of real robot demonstrations (only 25 points). To the best of our knowledge, the proposed approach is the most sample-efficient method for soft continuum robot. Furthermore, we employed this model to develop a  controller to track arbitrary trajectories in the feasible kinematic space. 
 </p>
 <br> <a href="https://youtu.be/_y7LvG-JS4M"> <b>Video</b></a> &emsp; &emsp;
@@ -349,7 +349,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 
 <tr>
     <td style = ""><img src="./imgs/locoMilo.gif"/></td>
-    <td> <b> + Agile and Versatile Robot Locomotion via Kernel-based Residual Learning:</b> <br>
+    <td> <b> + [ICRA23] Agile and Versatile Robot Locomotion via Kernel-based Residual Learning:</b> <br>
     <p align="justify"> This work developed a kernel-based residual learning framework for quadrupedal robotic locomotion. Initially, a kernel neural network is trained with data collected from an MPC controller. Alongside a frozen kernel network, a residual controller network is trained via reinforcement learning to acquire generalized locomotion skills and resilience against external perturbations. With this proposed framework, a robust quadrupedal locomotion controller is learned with high sample efficiency and controllability, providing omnidirectional locomotion at continuous velocities. Its versatility and robustness are validated on unseen terrains that the expert MPC controller fails to traverse. Furthermore, the learned kernel can produce a range of functional locomotion behaviors and can generalize to unseen gaits.
 </p>
 <br> <a href="https://youtu.be/MK_s75UpDAg"> <b>Video</b></a> &emsp; &emsp;
@@ -360,7 +360,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 
 <tr>
     <td style = ""><img src="./imgs/ssg.png"/></td>
-    <td> <b> + Instance-wise Grasp Synthesis for Robotic Grasping:</b> <br>
+    <td> <b> + [ICRA23] Instance-wise Grasp Synthesis for Robotic Grasping:</b> <br>
     <p align="justify"> Generating high-quality instance-wise grasp configurations provides critical information of how to grasp specific objects in a multi-object environment and is of high importance for robot manipulation tasks. This work proposed a novel Single-Stage Grasp (SSG) synthesis network, which performs high-quality instance-wise grasp synthesis in a single stage: instance mask and grasp configurations are generated for each object simultaneously. Our method outperforms state-of-the-art on robotic grasp prediction based on the OCID-Grasp dataset, and performs competitively on the JACQUARD dataset. The benchmarking results showed significant improvements compared to the baseline on the accuracy of generated grasp configurations. 
 </p>
 <br> 
@@ -375,7 +375,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 
   <tr>
     <td style = ""><img src="./imgs/robocup22.jpg"/></td>
-    <td> <b> + FC Portugal: RoboCup 2022 3D Simulation League and Technical Challenge Champions:</b> <br>
+    <td> <b> + [RoboCup] FC Portugal: RoboCup 2022 3D Simulation League and Technical Challenge Champions:</b> <br>
     <p align="justify">
      FC Portugal, a team from the universities of Porto and Aveiro, won the main competition of the **2022 RoboCup 3D Simulation League**, with 17 wins, 1 tie and no losses. During the course of the competition, the team scored 84 goals while conceding only 2. FC Portugal also won the 2022 RoboCup 3D Simulation League Technical Challenge, accumulating the maximum amount of points by ending first in its both events: the Free/Scientific Challenge, and the Fat Proxy Challenge. The team presented in this year’s competition was rebuilt from the ground up since the last RoboCup. No previous code was used or adapted, with the exception of the 6D pose estimation algorithm, and the get-up behaviors, which were re-optimized. In comparison with our previous team, the omnidirectional walk is more stable and went from 0.70 m/s to 0.90 m/s, the long kick from 15 m to 19 m, and the new close-control dribble reaches up to 1.41 m/s.
    </p>
@@ -387,7 +387,7 @@ objects with obstacle avoidance. Such a throwing skill not only increases the ph
 
   <tr>
     <td style = ""><img src="./imgs/humanoidWalking.gif"/></td>
-    <td> <b> + Learning Hybrid Locomotion Skills – Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control:</b> <br>
+    <td> <b> + [Frontiers] Learning Hybrid Locomotion Skills – Learn to Exploit Residual Dynamics and Modulate Model-based Gait Control:</b> <br>
     <p align="justify">
     This work aims to combine machine learning and control approaches for legged robots, and developed a hybrid framework to achieve new capabilities of balancing against external perturbations. The framework embeds a kernel which is a fully parametric closed-loop gait generator based on analytical control. On top of that, a neural network with symmetric partial data augmentation learns to automatically adjust the parameters for the gait kernel and to generate compensatory actions for all joints as the residual dynamics, thus significantly augmenting the stability under unexpected perturbations. </p>
 <br> <a href="https://youtu.be/sdcREkRHk-Q"> <b>Video</b></a> &emsp; &emsp;
