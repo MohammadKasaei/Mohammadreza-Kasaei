@@ -4,7 +4,7 @@
 
 <!-- <p style="text-align:left;"> -->
 <!-- <p align="justify"> -->
- I am a research associate (postdoc) at the [University of Edinburgh](https://www.ed.ac.uk/). My research focuses on developing efficient robot learning algorithms including deep reinforcement learning, imitation learning, LLM-based, and computer vision. I have evaluated my works on different robotic platforms, including Nextage, YuMi, robotic arms (UR5, Franka), legged robots (biped and quadruped) and soft robots. 
+ I am a research associate (postdoc) at the [University of Edinburgh](https://www.ed.ac.uk/). My research focuses on **developing efficient robot learning algorithms** including deep reinforcement learning, imitation learning, LLM-based, and computer vision. I have evaluated my works on different robotic platforms, including Nextage, YuMi, robotic arms (UR5, Franka), legged robots (biped and quadruped) and soft robots. 
   <!-- These days, I am particularly interested in neural ODE and its applications in developing scalable imitation learning algorithms, physics-informed neural networks (PINN) to learn residual dynamics and residual actions, also deep learning approaches for visual object perception, segmentation and grasp pose prediction in highly cluttered environments.  -->
  <!-- </p> -->
 <br />
