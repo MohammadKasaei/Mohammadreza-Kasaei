@@ -14,7 +14,7 @@ learning from demonstrating (LfD), reinforcement learning from human feedback (R
 <br />
 <br />
 
- [Google scholar](https://scholar.google.com/citations?user=2aY06V4AAAAJ&hl=en)  &emsp; /  &emsp; [Github](https://github.com/MohammadKasaei) &emsp; /  &emsp; [Linkedin](https://www.linkedin.com/in/mohammadreza-kasaei-0a891ab6/) &emsp; /  &emsp; [Youtube](http://www.youtube.com/@mohammadrezakasaei2275)
+ [Google scholar](https://scholar.google.com/citations?user=2aY06V4AAAAJ&hl=en)  &emsp; /  &emsp; [Github](https://github.com/MohammadKasaei) &emsp; /  &emsp; [PhD Thesis](docs/MyPhDThesis.pdf) &emsp; /  &emsp; [Linkedin](https://www.linkedin.com/in/mohammadreza-kasaei-0a891ab6/) &emsp; /  &emsp; [Youtube](http://www.youtube.com/@mohammadrezakasaei2275)
 <br />
 <br />
 
