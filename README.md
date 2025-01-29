@@ -95,6 +95,8 @@ learning from demonstrating (LfD), reinforcement learning from human feedback (R
 
 # Latest News
 
+- **January 2025:** My paper, <span style="color:#006600"> <b>  A Synergistic Framework for Learning Shape Estimation and Shape-Aware Whole-Body Control Policy for Continuum Robots,</b></span>  has been accepted for presentation at the 2025 International Conference on Robotics and Automation **ICRA 2025**. A big thank you to my collaborators! The paper is available online [Here](https://arxiv.org/pdf/2501.03859).
+
 - **August 2024:** My paper, <span style="color:#006600"> <b>  SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning,</b></span>  has been accepted for presentation at the 2024 Conference on Robot Learning [(**CoRL 2024**)](https://www.corl.org/). A big thank you to my collaborators! The paper is available online [Here](https://openreview.net/pdf?id=ovjxugn9Q2).
   
 - **June 2024:** My research team has had <span style="color:#006600"> <b> two papers accepted </b></span> for presentation at the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems  [(**IROS 2024**)](https://iros2024-abudhabi.org/). A big thank you to my students and collaborators!
@@ -179,6 +181,22 @@ th, td {
   <tr>
     <th style="width:45%"></th>
     <th></th>
+  </tr>
+
+
+
+<tr>
+    <td style = ""><img src="./imgs/ctr_obs.gif"/></td>
+    <td> <b> + [ICRA2025] A Synergistic Framework for Learning Shape Estimation and Shape-Aware Whole-Body Control Policy for Continuum Robots:</b> <br>
+    <p align="justify">
+This work introduces SoftManiSim, a novel simulation framework
+for multi-segment continuum manipulators. Existing continuum robot simulators often rely on simplifying assumptions, such as constant curvature bending or ignoring contact forces, to meet real-time simulation and training demands. To
+bridge this gap, we propose a robust and rapid mathematical model for continuum robots at the core of SoftManiSim, ensuring precise and adaptable simulations. The framework can integrate with various rigid-body robots, increasing its utility across different robotic platforms. 
+</p>
+<br> <a href="https://youtu.be/SIR7hVi_Bd0"> <b>Video</b></a> &emsp; &emsp;
+ <a href="https://arxiv.org/pdf/2501.03859"> <b>Paper (ICRA)</b></a> &emsp; &emsp;
+ <a href="https://github.com/MohammadKasaei/WholeBodyControl_CTR"> <b>Code</b></a> 
+ </td>
   </tr>
 
 
