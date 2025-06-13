@@ -65,7 +65,7 @@ learning from demonstrating (LfD), reinforcement learning from human feedback (R
     </td>
     <td width="33%">
       <a href="https://youtu.be/hifFdgeuDIs" target="_blank">
-        <img src="./imgs/Talos.gif" alt="Talos Example">
+        <img src="./imgs/G1.gif" alt="Talos Example">
       </a>
     </td>
     <td width="33%">
