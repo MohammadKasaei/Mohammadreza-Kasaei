@@ -186,6 +186,20 @@ th, td {
 
 
 <tr>
+    <td style = ""><img src="./imgs/shape_mppi.gif"/></td>
+    <td> <b> + [Underview] Shape-Aware Whole-Body Control for Continuum Robots with Application in Endoluminal Surgical Robotics:</b> <br>
+    <p align="justify">
+We present a shape-aware whole-body control framework for tendon-driven continuum robots that improves navigation in challenging endoluminal procedures such as bronchoscopy. By combining a physics-informed backbone model with Augmented Neural ODEs for accurate shape estimation and efficient Jacobian computation, and a sampling-based MPPI controller that jointly optimizes tip tracking, shape conformance, and obstacle avoidance, the system enables safer and more precise motion inside tortuous anatomy. A real-time task manager allows operators to adjust objectives like wall clearance or direct advancement during teleoperation. Simulation and benchtop bronchoscopy-phantom experiments demonstrate millimeter-level accuracy, fewer wall contacts, and improved lumen following compared to joystick control and existing baselines, highlighting the framework’s potential to increase safety, reliability, and efficiency in minimally invasive surgery and other confined, safety-critical environments. 
+</p>
+<!-- <br> <a href="https://youtu.be/SIR7hVi_Bd0"> <b>Video</b></a> &emsp; &emsp; -->
+ <a href="https://arxiv.org/pdf/2510.12332"> <b>Paper</b></a> &emsp; &emsp;
+ <!-- <a href="https://github.com/MohammadKasaei/WholeBodyControl_CTR"> <b>Code</b></a>  -->
+ </td>
+  </tr>
+
+
+
+<tr>
     <td style = ""><img src="./imgs/ctr_obs.gif"/></td>
     <td> <b> + [ICRA2025] A Synergistic Framework for Learning Shape Estimation and Shape-Aware Whole-Body Control Policy for Continuum Robots:</b> <br>
     <p align="justify">
